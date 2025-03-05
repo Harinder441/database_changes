@@ -1,0 +1,1 @@
+ALTER TABLE `tbl_leave_req_form` ADD `leave_sub_type` VARCHAR(100) NULL DEFAULT NULL AFTER `leave_type`;

@@ -1,0 +1,33 @@
+Update  `fee_collection` set payment_date="2024-10-01 12:36:05" where payment_date="2024-10-01 12:36:05" and receipt_no=476;
+
+
+UPDATE fee_collection SET payment_date = '2024-10-01 12:36:05' WHERE payment_date="2024-10-01 12:36:05" and receipt_no= 476;
+UPDATE fee_collection SET payment_date = '2024-10-01 12:37:45' WHERE payment_date="2024-10-01 12:36:05" and receipt_no= 477;
+UPDATE fee_collection SET payment_date = '2024-10-01 12:38:25' WHERE payment_date="2024-10-01 12:36:05" and receipt_no= 478;
+UPDATE fee_collection SET payment_date = '2024-10-01 12:39:15' WHERE payment_date="2024-10-01 12:36:05" and receipt_no= 479;
+UPDATE fee_collection SET payment_date = '2024-10-01 12:40:15' WHERE payment_date="2024-10-01 12:36:05" and receipt_no= 480;
+UPDATE fee_collection SET payment_date = '2024-10-01 12:40:25' WHERE payment_date="2024-10-01 12:36:05" and receipt_no= 481;
+UPDATE fee_collection SET payment_date = '2024-10-01 12:41:55' WHERE payment_date="2024-10-01 12:36:05" and receipt_no= 482;
+UPDATE fee_collection SET payment_date = '2024-10-01 12:41:15' WHERE payment_date="2024-10-01 12:36:05" and receipt_no= 483;
+UPDATE fee_collection SET payment_date = '2024-10-01 12:43:16' WHERE payment_date="2024-10-01 12:36:05" and receipt_no= 484;
+UPDATE fee_collection SET payment_date = '2024-10-01 12:46:55' WHERE payment_date="2024-10-01 12:36:05" and receipt_no= 485;
+UPDATE fee_collection SET payment_date = '2024-10-01 12:47:58' WHERE payment_date="2024-10-01 12:36:05" and receipt_no= 486;
+UPDATE fee_collection SET payment_date = '2024-10-01 12:49:01' WHERE payment_date="2024-10-01 12:36:05" and receipt_no= 487;
+UPDATE fee_collection SET payment_date = '2024-10-01 12:50:03' WHERE payment_date="2024-10-01 12:36:05" and receipt_no= 488;
+UPDATE fee_collection SET payment_date = '2024-10-01 12:50:05' WHERE payment_date="2024-10-01 12:36:05" and receipt_no= 489;
+UPDATE fee_collection SET payment_date = '2024-10-01 12:51:11' WHERE payment_date="2024-10-01 12:36:05" and receipt_no= 490;
+UPDATE fee_collection SET payment_date = '2024-10-01 12:52:00' WHERE payment_date="2024-10-01 12:36:05" and receipt_no= 491;
+UPDATE fee_collection SET payment_date = '2024-10-01 12:52:10' WHERE payment_date="2024-10-01 12:36:05" and receipt_no= 492;
+UPDATE fee_collection SET payment_date = '2024-10-01 12:53:10' WHERE payment_date="2024-10-01 12:36:05" and receipt_no= 493;
+UPDATE fee_collection SET payment_date = '2024-10-01 12:53:12' WHERE payment_date="2024-10-01 12:36:05" and receipt_no= 494;
+UPDATE fee_collection SET payment_date = '2024-10-01 12:55:14' WHERE payment_date="2024-10-01 12:36:05" and receipt_no= 495;
+UPDATE fee_collection SET payment_date = '2024-10-01 12:55:15' WHERE payment_date="2024-10-01 12:36:05" and receipt_no= 496;
+UPDATE fee_collection SET payment_date = '2024-10-01 12:55:12' WHERE payment_date="2024-10-01 12:36:05" and receipt_no= 497;
+UPDATE fee_collection SET payment_date = '2024-10-01 12:56:11' WHERE payment_date="2024-10-01 12:36:05" and receipt_no= 498;
+UPDATE fee_collection SET payment_date = '2024-10-01 12:56:10' WHERE payment_date="2024-10-01 12:36:05" and receipt_no= 499;
+UPDATE fee_collection SET payment_date = '2024-10-01 12:57:10' WHERE payment_date="2024-10-01 12:36:05" and receipt_no= 500;
+UPDATE fee_collection SET payment_date = '2024-10-01 12:57:12' WHERE payment_date="2024-10-01 12:36:05" and receipt_no= 501;
+UPDATE fee_collection SET payment_date = '2024-10-01 12:58:11' WHERE payment_date="2024-10-01 12:36:05" and receipt_no= 502;
+UPDATE fee_collection SET payment_date = '2024-10-01 12:59:11' WHERE payment_date="2024-10-01 12:36:05" and receipt_no= 503;
+UPDATE fee_collection SET payment_date = '2024-10-01 13:03:15' WHERE payment_date="2024-10-01 12:36:05" and receipt_no= 504;
+UPDATE fee_collection SET payment_date = '2024-10-01 13:36:10' WHERE payment_date="2024-10-01 12:36:05" and receipt_no= 505;

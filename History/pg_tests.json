@@ -1,0 +1,92 @@
+{
+    "splitAmt": {
+        "67KTBBSU": 6910
+    },
+    "student_id": "1051",
+    "amount": 6910,
+    "productDescription": "ary",
+    "pay_fee_strcuture": {
+        "feeType": "ary",
+        "books": 6910,
+        "stationary": 0,
+        "exam": 0
+    },
+    "buyerEmail": null,
+    "buyerFirstName": "BALJIT KUMAR",
+    "buyerAddress": "V.P.O.- GANESHPUR, TEHSIL- NARAINGARH DISTT- AMBALA",
+    "buyerCity": null,
+    "buyerCountry": "India",
+    "buyerPincode": "134202",
+    "buyerPhoneNumber": "9996666176",
+    "split_account_name": "Katebaa Rural Services and Solutions Foundation",
+    "split_account_id": "67KTBBSU",
+    "currency": "INR",
+    "submit_form": {
+        "_token": "Cvpmowi6v478GvGd4lrhTBpPWk8fNPfV6lvpftRP",
+        "feeType": "ary",
+        "student_id": "1051",
+        "school_id": "67",
+        "optionalField": "2024-25|2024-04-01|2025-03-31|SAKSHAM DHIMAN|6|C|BALJIT KUMAR",
+        "books": "6910",
+        "stationary": "0",
+        "examination": "0"
+    },
+    "txnDate": "2024-07-30 00:57:31",
+    "orderId": "0000000001051-67-399"
+}
+
+
+{
+    "splitAmt": {
+        "120AMHBR": "15500",
+        "120KTBTPT": "5275",
+        "120KTBBSU": 950
+    },
+    "student_id": "81",
+    "amount": 21725,
+    "productDescription": "consolidateFee",
+    "pay_fee_strcuture": {
+        "feeType": "consolidateFee",
+        "installment_no": "1",
+        "schoolFee": "15500",
+        "transportFee": "5275",
+        "books": 0,
+        "stationary": 0,
+        "exam": "950",
+        "additionalCharges": 0
+    },
+    "buyerEmail": null,
+    "buyerFirstName": "JASWINDER SINGH",
+    "buyerAddress": "RAILWAY CRROSING BARARA",
+    "buyerCity": "Barara",
+    "buyerCountry": "India",
+    "buyerPincode": "133201",
+    "buyerPhoneNumber": "7206138452",
+    "split_account_name": null,
+    "split_account_id": null,
+    "currency": "INR",
+    "submit_form": {
+        "_token": "TFJfvTPXmbpUW8pflVbbmXwh1feKo5x9JCIpHndG",
+        "feeType": "consolidateFee",
+        "student_id": "81",
+        "school_id": "120",
+        "optionalField": "2024-25|2024-04-01|2025-03-31|SAMARATH SINGH|7|B|JASWINDER SINGH",
+        "installment_no": "1",
+        "fee": "fee",
+        "fee_1": "15500",
+        "fee_2": "34500",
+        "transport": "transport",
+        "transport_1": "5275",
+        "transport_2": "11605",
+        "books_1": "0",
+        "books_2": "0",
+        "stationary_1": "0",
+        "stationary_2": "0",
+        "exam": "exam",
+        "exam_1": "950",
+        "exam_2": "950",
+        "payAmount": "21725"
+    },
+    "txnDate": "2024-08-06 07:06:55",
+    "orderId": "000000000081-120-524"
+}

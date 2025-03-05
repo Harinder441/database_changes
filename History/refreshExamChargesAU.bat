@@ -1,0 +1,1 @@
+E:\xamppnew\php\php.exe E:\xamppnew\htdocs\feeapp\artisan RefreshExamination

@@ -1,0 +1,848 @@
+Illuminate\Support\Collection Object
+(
+    [items:protected] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [DeviceLogId] => 97999
+                    [DownloadDate] => 2024-05-04 07:49:50.000
+                    [DeviceId] => 139
+                    [UserId] => Mandeep Kaur
+                    [LogDate] => 2024-05-04 07:49:56.000
+                    [Direction] => 
+                    [AttDirection] => 
+                    [C1] => in
+                    [C2] => 
+                    [C3] => 
+                    [C4] => 0
+                    [C5] => 1
+                    [C6] => 
+                    [C7] => 
+                    [WorkCode] => 
+                    [UpdateFlag] => 0
+                    [EmployeeImage] => 
+                    [FileName] => 
+                    [Longitude] => 
+                    [Latitude] => 
+                    [IsApproved] => -1
+                    [CreatedDate] => 2024-05-04 07:49:50.000
+                    [LastModifiedDate] => 
+                    [LocationAddress] => 
+                    [BodyTemperature] => 0.0
+                    [IsMaskOn] => 0
+                )
+
+            [1] => stdClass Object
+                (
+                    [DeviceLogId] => 98033
+                    [DownloadDate] => 2024-05-04 07:49:56.000
+                    [DeviceId] => 139
+                    [UserId] => Mandeep Kaur
+                    [LogDate] => 2024-05-04 07:49:58.000
+                    [Direction] => 
+                    [AttDirection] => 
+                    [C1] => in
+                    [C2] => 
+                    [C3] => 
+                    [C4] => 0
+                    [C5] => 1
+                    [C6] => 
+                    [C7] => 
+                    [WorkCode] => 
+                    [UpdateFlag] => 0
+                    [EmployeeImage] => 
+                    [FileName] => 
+                    [Longitude] => 
+                    [Latitude] => 
+                    [IsApproved] => -1
+                    [CreatedDate] => 2024-05-04 07:49:56.000
+                    [LastModifiedDate] => 
+                    [LocationAddress] => 
+                    [BodyTemperature] => 0.0
+                    [IsMaskOn] => 0
+                )
+
+            [2] => stdClass Object
+                (
+                    [DeviceLogId] => 108202
+                    [DownloadDate] => 2024-05-04 10:20:52.000
+                    [DeviceId] => 139
+                    [UserId] => Mandeep Kaur
+                    [LogDate] => 2024-05-04 10:20:55.000
+                    [Direction] => 
+                    [AttDirection] => 
+                    [C1] => in
+                    [C2] => 
+                    [C3] => 
+                    [C4] => 0
+                    [C5] => 1
+                    [C6] => 
+                    [C7] => 
+                    [WorkCode] => 
+                    [UpdateFlag] => 0
+                    [EmployeeImage] => 
+                    [FileName] => 
+                    [Longitude] => 
+                    [Latitude] => 
+                    [IsApproved] => -1
+                    [CreatedDate] => 2024-05-04 10:20:52.000
+                    [LastModifiedDate] => 
+                    [LocationAddress] => 
+                    [BodyTemperature] => 0.0
+                    [IsMaskOn] => 0
+                )
+
+            [3] => stdClass Object
+                (
+                    [DeviceLogId] => 108204
+                    [DownloadDate] => 2024-05-04 10:20:52.000
+                    [DeviceId] => 139
+                    [UserId] => Mandeep Kaur
+                    [LogDate] => 2024-05-04 10:20:57.000
+                    [Direction] => 
+                    [AttDirection] => 
+                    [C1] => in
+                    [C2] => 
+                    [C3] => 
+                    [C4] => 0
+                    [C5] => 1
+                    [C6] => 
+                    [C7] => 
+                    [WorkCode] => 
+                    [UpdateFlag] => 0
+                    [EmployeeImage] => 
+                    [FileName] => 
+                    [Longitude] => 
+                    [Latitude] => 
+                    [IsApproved] => -1
+                    [CreatedDate] => 2024-05-04 10:20:52.000
+                    [LastModifiedDate] => 
+                    [LocationAddress] => 
+                    [BodyTemperature] => 0.0
+                    [IsMaskOn] => 0
+                )
+
+            [4] => stdClass Object
+                (
+                    [DeviceLogId] => 211253
+                    [DownloadDate] => 2024-05-08 07:46:16.000
+                    [DeviceId] => 139
+                    [UserId] => Mandeep Kaur
+                    [LogDate] => 2024-05-08 07:46:19.000
+                    [Direction] => 
+                    [AttDirection] => 
+                    [C1] => in
+                    [C2] => 
+                    [C3] => 
+                    [C4] => 0
+                    [C5] => 1
+                    [C6] => 
+                    [C7] => 
+                    [WorkCode] => 
+                    [UpdateFlag] => 0
+                    [EmployeeImage] => 
+                    [FileName] => 
+                    [Longitude] => 
+                    [Latitude] => 
+                    [IsApproved] => -1
+                    [CreatedDate] => 2024-05-08 07:46:16.000
+                    [LastModifiedDate] => 
+                    [LocationAddress] => 
+                    [BodyTemperature] => 0.0
+                    [IsMaskOn] => 0
+                )
+
+            [5] => stdClass Object
+                (
+                    [DeviceLogId] => 211257
+                    [DownloadDate] => 2024-05-08 07:46:16.000
+                    [DeviceId] => 139
+                    [UserId] => Mandeep Kaur
+                    [LogDate] => 2024-05-08 07:46:21.000
+                    [Direction] => 
+                    [AttDirection] => 
+                    [C1] => in
+                    [C2] => 
+                    [C3] => 
+                    [C4] => 0
+                    [C5] => 1
+                    [C6] => 
+                    [C7] => 
+                    [WorkCode] => 
+                    [UpdateFlag] => 0
+                    [EmployeeImage] => 
+                    [FileName] => 
+                    [Longitude] => 
+                    [Latitude] => 
+                    [IsApproved] => -1
+                    [CreatedDate] => 2024-05-08 07:46:16.000
+                    [LastModifiedDate] => 
+                    [LocationAddress] => 
+                    [BodyTemperature] => 0.0
+                    [IsMaskOn] => 0
+                )
+
+            [6] => stdClass Object
+                (
+                    [DeviceLogId] => 223933
+                    [DownloadDate] => 2024-05-08 11:27:17.000
+                    [DeviceId] => 105
+                    [UserId] => Mandeep Kaur
+                    [LogDate] => 2024-05-08 11:27:18.000
+                    [Direction] => 
+                    [AttDirection] => 
+                    [C1] => in
+                    [C2] => 
+                    [C3] => 
+                    [C4] => 0
+                    [C5] => 1
+                    [C6] => 
+                    [C7] => 
+                    [WorkCode] => 
+                    [UpdateFlag] => 0
+                    [EmployeeImage] => 
+                    [FileName] => 
+                    [Longitude] => 
+                    [Latitude] => 
+                    [IsApproved] => -1
+                    [CreatedDate] => 2024-05-08 11:27:17.000
+                    [LastModifiedDate] => 
+                    [LocationAddress] => 
+                    [BodyTemperature] => 0.0
+                    [IsMaskOn] => 0
+                )
+
+            [7] => stdClass Object
+                (
+                    [DeviceLogId] => 231918
+                    [DownloadDate] => 2024-05-08 15:04:27.000
+                    [DeviceId] => 139
+                    [UserId] => Mandeep Kaur
+                    [LogDate] => 2024-05-08 15:04:06.000
+                    [Direction] => 
+                    [AttDirection] => 
+                    [C1] => out
+                    [C2] => 
+                    [C3] => 
+                    [C4] => 1
+                    [C5] => 1
+                    [C6] => 
+                    [C7] => 
+                    [WorkCode] => 
+                    [UpdateFlag] => 0
+                    [EmployeeImage] => 
+                    [FileName] => 
+                    [Longitude] => 
+                    [Latitude] => 
+                    [IsApproved] => -1
+                    [CreatedDate] => 2024-05-08 15:04:27.000
+                    [LastModifiedDate] => 
+                    [LocationAddress] => 
+                    [BodyTemperature] => 0.0
+                    [IsMaskOn] => 0
+                )
+
+            [8] => stdClass Object
+                (
+                    [DeviceLogId] => 231920
+                    [DownloadDate] => 2024-05-08 15:04:27.000
+                    [DeviceId] => 139
+                    [UserId] => Mandeep Kaur
+                    [LogDate] => 2024-05-08 15:04:08.000
+                    [Direction] => 
+                    [AttDirection] => 
+                    [C1] => out
+                    [C2] => 
+                    [C3] => 
+                    [C4] => 1
+                    [C5] => 1
+                    [C6] => 
+                    [C7] => 
+                    [WorkCode] => 
+                    [UpdateFlag] => 0
+                    [EmployeeImage] => 
+                    [FileName] => 
+                    [Longitude] => 
+                    [Latitude] => 
+                    [IsApproved] => -1
+                    [CreatedDate] => 2024-05-08 15:04:27.000
+                    [LastModifiedDate] => 
+                    [LocationAddress] => 
+                    [BodyTemperature] => 0.0
+                    [IsMaskOn] => 0
+                )
+
+            [9] => stdClass Object
+                (
+                    [DeviceLogId] => 258787
+                    [DownloadDate] => 2024-05-09 08:00:47.000
+                    [DeviceId] => 139
+                    [UserId] => Mandeep Kaur
+                    [LogDate] => 2024-05-09 08:00:44.000
+                    [Direction] => 
+                    [AttDirection] => 
+                    [C1] => in
+                    [C2] => 
+                    [C3] => 
+                    [C4] => 0
+                    [C5] => 1
+                    [C6] => 
+                    [C7] => 
+                    [WorkCode] => 
+                    [UpdateFlag] => 0
+                    [EmployeeImage] => 
+                    [FileName] => 
+                    [Longitude] => 
+                    [Latitude] => 
+                    [IsApproved] => -1
+                    [CreatedDate] => 2024-05-09 08:00:47.000
+                    [LastModifiedDate] => 
+                    [LocationAddress] => 
+                    [BodyTemperature] => 0.0
+                    [IsMaskOn] => 0
+                )
+
+            [10] => stdClass Object
+                (
+                    [DeviceLogId] => 258799
+                    [DownloadDate] => 2024-05-09 08:00:52.000
+                    [DeviceId] => 139
+                    [UserId] => Mandeep Kaur
+                    [LogDate] => 2024-05-09 08:00:45.000
+                    [Direction] => 
+                    [AttDirection] => 
+                    [C1] => in
+                    [C2] => 
+                    [C3] => 
+                    [C4] => 0
+                    [C5] => 1
+                    [C6] => 
+                    [C7] => 
+                    [WorkCode] => 
+                    [UpdateFlag] => 0
+                    [EmployeeImage] => 
+                    [FileName] => 
+                    [Longitude] => 
+                    [Latitude] => 
+                    [IsApproved] => -1
+                    [CreatedDate] => 2024-05-09 08:00:52.000
+                    [LastModifiedDate] => 
+                    [LocationAddress] => 
+                    [BodyTemperature] => 0.0
+                    [IsMaskOn] => 0
+                )
+
+            [11] => stdClass Object
+                (
+                    [DeviceLogId] => 273094
+                    [DownloadDate] => 2024-05-09 15:14:17.000
+                    [DeviceId] => 139
+                    [UserId] => Mandeep Kaur
+                    [LogDate] => 2024-05-09 15:14:11.000
+                    [Direction] => 
+                    [AttDirection] => 
+                    [C1] => out
+                    [C2] => 
+                    [C3] => 
+                    [C4] => 1
+                    [C5] => 1
+                    [C6] => 
+                    [C7] => 
+                    [WorkCode] => 
+                    [UpdateFlag] => 0
+                    [EmployeeImage] => 
+                    [FileName] => 
+                    [Longitude] => 
+                    [Latitude] => 
+                    [IsApproved] => -1
+                    [CreatedDate] => 2024-05-09 15:14:17.000
+                    [LastModifiedDate] => 
+                    [LocationAddress] => 
+                    [BodyTemperature] => 0.0
+                    [IsMaskOn] => 0
+                )
+
+            [12] => stdClass Object
+                (
+                    [DeviceLogId] => 273100
+                    [DownloadDate] => 2024-05-09 15:14:17.000
+                    [DeviceId] => 139
+                    [UserId] => Mandeep Kaur
+                    [LogDate] => 2024-05-09 15:14:13.000
+                    [Direction] => 
+                    [AttDirection] => 
+                    [C1] => out
+                    [C2] => 
+                    [C3] => 
+                    [C4] => 1
+                    [C5] => 1
+                    [C6] => 
+                    [C7] => 
+                    [WorkCode] => 
+                    [UpdateFlag] => 0
+                    [EmployeeImage] => 
+                    [FileName] => 
+                    [Longitude] => 
+                    [Latitude] => 
+                    [IsApproved] => -1
+                    [CreatedDate] => 2024-05-09 15:14:17.000
+                    [LastModifiedDate] => 
+                    [LocationAddress] => 
+                    [BodyTemperature] => 0.0
+                    [IsMaskOn] => 0
+                )
+
+            [13] => stdClass Object
+                (
+                    [DeviceLogId] => 290957
+                    [DownloadDate] => 2024-05-11 07:43:58.000
+                    [DeviceId] => 139
+                    [UserId] => Mandeep Kaur
+                    [LogDate] => 2024-05-11 07:43:54.000
+                    [Direction] => 
+                    [AttDirection] => 
+                    [C1] => in
+                    [C2] => 
+                    [C3] => 
+                    [C4] => 0
+                    [C5] => 1
+                    [C6] => 
+                    [C7] => 
+                    [WorkCode] => 
+                    [UpdateFlag] => 0
+                    [EmployeeImage] => 
+                    [FileName] => 
+                    [Longitude] => 
+                    [Latitude] => 
+                    [IsApproved] => -1
+                    [CreatedDate] => 2024-05-11 07:43:58.000
+                    [LastModifiedDate] => 
+                    [LocationAddress] => 
+                    [BodyTemperature] => 0.0
+                    [IsMaskOn] => 0
+                )
+
+            [14] => stdClass Object
+                (
+                    [DeviceLogId] => 290961
+                    [DownloadDate] => 2024-05-11 07:43:58.000
+                    [DeviceId] => 139
+                    [UserId] => Mandeep Kaur
+                    [LogDate] => 2024-05-11 07:43:55.000
+                    [Direction] => 
+                    [AttDirection] => 
+                    [C1] => in
+                    [C2] => 
+                    [C3] => 
+                    [C4] => 0
+                    [C5] => 1
+                    [C6] => 
+                    [C7] => 
+                    [WorkCode] => 
+                    [UpdateFlag] => 0
+                    [EmployeeImage] => 
+                    [FileName] => 
+                    [Longitude] => 
+                    [Latitude] => 
+                    [IsApproved] => -1
+                    [CreatedDate] => 2024-05-11 07:43:58.000
+                    [LastModifiedDate] => 
+                    [LocationAddress] => 
+                    [BodyTemperature] => 0.0
+                    [IsMaskOn] => 0
+                )
+
+            [15] => stdClass Object
+                (
+                    [DeviceLogId] => 309287
+                    [DownloadDate] => 2024-05-11 15:02:20.000
+                    [DeviceId] => 139
+                    [UserId] => Mandeep Kaur
+                    [LogDate] => 2024-05-11 15:02:16.000
+                    [Direction] => 
+                    [AttDirection] => 
+                    [C1] => out
+                    [C2] => 
+                    [C3] => 
+                    [C4] => 1
+                    [C5] => 1
+                    [C6] => 
+                    [C7] => 
+                    [WorkCode] => 
+                    [UpdateFlag] => 0
+                    [EmployeeImage] => 
+                    [FileName] => 
+                    [Longitude] => 
+                    [Latitude] => 
+                    [IsApproved] => -1
+                    [CreatedDate] => 2024-05-11 15:02:20.000
+                    [LastModifiedDate] => 
+                    [LocationAddress] => 
+                    [BodyTemperature] => 0.0
+                    [IsMaskOn] => 0
+                )
+
+            [16] => stdClass Object
+                (
+                    [DeviceLogId] => 309338
+                    [DownloadDate] => 2024-05-11 15:02:25.000
+                    [DeviceId] => 139
+                    [UserId] => Mandeep Kaur
+                    [LogDate] => 2024-05-11 15:02:18.000
+                    [Direction] => 
+                    [AttDirection] => 
+                    [C1] => out
+                    [C2] => 
+                    [C3] => 
+                    [C4] => 1
+                    [C5] => 1
+                    [C6] => 
+                    [C7] => 
+                    [WorkCode] => 
+                    [UpdateFlag] => 0
+                    [EmployeeImage] => 
+                    [FileName] => 
+                    [Longitude] => 
+                    [Latitude] => 
+                    [IsApproved] => -1
+                    [CreatedDate] => 2024-05-11 15:02:25.000
+                    [LastModifiedDate] => 
+                    [LocationAddress] => 
+                    [BodyTemperature] => 0.0
+                    [IsMaskOn] => 0
+                )
+
+            [17] => stdClass Object
+                (
+                    [DeviceLogId] => 329956
+                    [DownloadDate] => 2024-05-13 07:43:00.000
+                    [DeviceId] => 139
+                    [UserId] => Mandeep Kaur
+                    [LogDate] => 2024-05-13 07:42:57.000
+                    [Direction] => 
+                    [AttDirection] => 
+                    [C1] => in
+                    [C2] => 
+                    [C3] => 
+                    [C4] => 0
+                    [C5] => 1
+                    [C6] => 
+                    [C7] => 
+                    [WorkCode] => 
+                    [UpdateFlag] => 0
+                    [EmployeeImage] => 
+                    [FileName] => 
+                    [Longitude] => 
+                    [Latitude] => 
+                    [IsApproved] => -1
+                    [CreatedDate] => 2024-05-13 07:43:00.000
+                    [LastModifiedDate] => 
+                    [LocationAddress] => 
+                    [BodyTemperature] => 0.0
+                    [IsMaskOn] => 0
+                )
+
+            [18] => stdClass Object
+                (
+                    [DeviceLogId] => 329964
+                    [DownloadDate] => 2024-05-13 07:43:05.000
+                    [DeviceId] => 139
+                    [UserId] => Mandeep Kaur
+                    [LogDate] => 2024-05-13 07:42:58.000
+                    [Direction] => 
+                    [AttDirection] => 
+                    [C1] => in
+                    [C2] => 
+                    [C3] => 
+                    [C4] => 0
+                    [C5] => 1
+                    [C6] => 
+                    [C7] => 
+                    [WorkCode] => 
+                    [UpdateFlag] => 0
+                    [EmployeeImage] => 
+                    [FileName] => 
+                    [Longitude] => 
+                    [Latitude] => 
+                    [IsApproved] => -1
+                    [CreatedDate] => 2024-05-13 07:43:05.000
+                    [LastModifiedDate] => 
+                    [LocationAddress] => 
+                    [BodyTemperature] => 0.0
+                    [IsMaskOn] => 0
+                )
+
+            [19] => stdClass Object
+                (
+                    [DeviceLogId] => 344792
+                    [DownloadDate] => 2024-05-13 13:14:16.000
+                    [DeviceId] => 105
+                    [UserId] => Mandeep Kaur
+                    [LogDate] => 2024-05-13 13:14:20.000
+                    [Direction] => 
+                    [AttDirection] => 
+                    [C1] => in
+                    [C2] => 
+                    [C3] => 
+                    [C4] => 0
+                    [C5] => 1
+                    [C6] => 
+                    [C7] => 
+                    [WorkCode] => 
+                    [UpdateFlag] => 0
+                    [EmployeeImage] => 
+                    [FileName] => 
+                    [Longitude] => 
+                    [Latitude] => 
+                    [IsApproved] => -1
+                    [CreatedDate] => 2024-05-13 13:14:16.000
+                    [LastModifiedDate] => 
+                    [LocationAddress] => 
+                    [BodyTemperature] => 0.0
+                    [IsMaskOn] => 0
+                )
+
+            [20] => stdClass Object
+                (
+                    [DeviceLogId] => 349818
+                    [DownloadDate] => 2024-05-13 15:02:21.000
+                    [DeviceId] => 139
+                    [UserId] => Mandeep Kaur
+                    [LogDate] => 2024-05-13 15:02:05.000
+                    [Direction] => 
+                    [AttDirection] => 
+                    [C1] => out
+                    [C2] => 
+                    [C3] => 
+                    [C4] => 1
+                    [C5] => 1
+                    [C6] => 
+                    [C7] => 
+                    [WorkCode] => 
+                    [UpdateFlag] => 0
+                    [EmployeeImage] => 
+                    [FileName] => 
+                    [Longitude] => 
+                    [Latitude] => 
+                    [IsApproved] => -1
+                    [CreatedDate] => 2024-05-13 15:02:21.000
+                    [LastModifiedDate] => 
+                    [LocationAddress] => 
+                    [BodyTemperature] => 0.0
+                    [IsMaskOn] => 0
+                )
+
+            [21] => stdClass Object
+                (
+                    [DeviceLogId] => 349872
+                    [DownloadDate] => 2024-05-13 15:02:22.000
+                    [DeviceId] => 139
+                    [UserId] => Mandeep Kaur
+                    [LogDate] => 2024-05-13 15:02:07.000
+                    [Direction] => 
+                    [AttDirection] => 
+                    [C1] => out
+                    [C2] => 
+                    [C3] => 
+                    [C4] => 1
+                    [C5] => 1
+                    [C6] => 
+                    [C7] => 
+                    [WorkCode] => 
+                    [UpdateFlag] => 0
+                    [EmployeeImage] => 
+                    [FileName] => 
+                    [Longitude] => 
+                    [Latitude] => 
+                    [IsApproved] => -1
+                    [CreatedDate] => 2024-05-13 15:02:22.000
+                    [LastModifiedDate] => 
+                    [LocationAddress] => 
+                    [BodyTemperature] => 0.0
+                    [IsMaskOn] => 0
+                )
+
+            [22] => stdClass Object
+                (
+                    [DeviceLogId] => 369728
+                    [DownloadDate] => 2024-05-14 07:45:29.000
+                    [DeviceId] => 139
+                    [UserId] => Mandeep Kaur
+                    [LogDate] => 2024-05-14 07:45:27.000
+                    [Direction] => 
+                    [AttDirection] => 
+                    [C1] => in
+                    [C2] => 
+                    [C3] => 
+                    [C4] => 0
+                    [C5] => 1
+                    [C6] => 
+                    [C7] => 
+                    [WorkCode] => 
+                    [UpdateFlag] => 0
+                    [EmployeeImage] => 
+                    [FileName] => 
+                    [Longitude] => 
+                    [Latitude] => 
+                    [IsApproved] => -1
+                    [CreatedDate] => 2024-05-14 07:45:29.000
+                    [LastModifiedDate] => 
+                    [LocationAddress] => 
+                    [BodyTemperature] => 0.0
+                    [IsMaskOn] => 0
+                )
+
+            [23] => stdClass Object
+                (
+                    [DeviceLogId] => 369766
+                    [DownloadDate] => 2024-05-14 07:45:34.000
+                    [DeviceId] => 139
+                    [UserId] => Mandeep Kaur
+                    [LogDate] => 2024-05-14 07:45:32.000
+                    [Direction] => 
+                    [AttDirection] => 
+                    [C1] => in
+                    [C2] => 
+                    [C3] => 
+                    [C4] => 0
+                    [C5] => 1
+                    [C6] => 
+                    [C7] => 
+                    [WorkCode] => 
+                    [UpdateFlag] => 0
+                    [EmployeeImage] => 
+                    [FileName] => 
+                    [Longitude] => 
+                    [Latitude] => 
+                    [IsApproved] => -1
+                    [CreatedDate] => 2024-05-14 07:45:34.000
+                    [LastModifiedDate] => 
+                    [LocationAddress] => 
+                    [BodyTemperature] => 0.0
+                    [IsMaskOn] => 0
+                )
+
+            [24] => stdClass Object
+                (
+                    [DeviceLogId] => 385762
+                    [DownloadDate] => 2024-05-14 12:43:32.000
+                    [DeviceId] => 139
+                    [UserId] => Mandeep Kaur
+                    [LogDate] => 2024-05-14 12:43:28.000
+                    [Direction] => 
+                    [AttDirection] => 
+                    [C1] => in
+                    [C2] => 
+                    [C3] => 
+                    [C4] => 0
+                    [C5] => 1
+                    [C6] => 
+                    [C7] => 
+                    [WorkCode] => 
+                    [UpdateFlag] => 0
+                    [EmployeeImage] => 
+                    [FileName] => 
+                    [Longitude] => 
+                    [Latitude] => 
+                    [IsApproved] => -1
+                    [CreatedDate] => 2024-05-14 12:43:32.000
+                    [LastModifiedDate] => 
+                    [LocationAddress] => 
+                    [BodyTemperature] => 0.0
+                    [IsMaskOn] => 0
+                )
+
+            [25] => stdClass Object
+                (
+                    [DeviceLogId] => 385764
+                    [DownloadDate] => 2024-05-14 12:43:37.000
+                    [DeviceId] => 139
+                    [UserId] => Mandeep Kaur
+                    [LogDate] => 2024-05-14 12:43:32.000
+                    [Direction] => 
+                    [AttDirection] => 
+                    [C1] => in
+                    [C2] => 
+                    [C3] => 
+                    [C4] => 0
+                    [C5] => 1
+                    [C6] => 
+                    [C7] => 
+                    [WorkCode] => 
+                    [UpdateFlag] => 0
+                    [EmployeeImage] => 
+                    [FileName] => 
+                    [Longitude] => 
+                    [Latitude] => 
+                    [IsApproved] => -1
+                    [CreatedDate] => 2024-05-14 12:43:37.000
+                    [LastModifiedDate] => 
+                    [LocationAddress] => 
+                    [BodyTemperature] => 0.0
+                    [IsMaskOn] => 0
+                )
+
+            [26] => stdClass Object
+                (
+                    [DeviceLogId] => 385766
+                    [DownloadDate] => 2024-05-14 12:43:42.000
+                    [DeviceId] => 139
+                    [UserId] => Mandeep Kaur
+                    [LogDate] => 2024-05-14 12:43:40.000
+                    [Direction] => 
+                    [AttDirection] => 
+                    [C1] => in
+                    [C2] => 
+                    [C3] => 
+                    [C4] => 0
+                    [C5] => 1
+                    [C6] => 
+                    [C7] => 
+                    [WorkCode] => 
+                    [UpdateFlag] => 0
+                    [EmployeeImage] => 
+                    [FileName] => 
+                    [Longitude] => 
+                    [Latitude] => 
+                    [IsApproved] => -1
+                    [CreatedDate] => 2024-05-14 12:43:42.000
+                    [LastModifiedDate] => 
+                    [LocationAddress] => 
+                    [BodyTemperature] => 0.0
+                    [IsMaskOn] => 0
+                )
+
+            [27] => stdClass Object
+                (
+                    [DeviceLogId] => 385768
+                    [DownloadDate] => 2024-05-14 12:43:48.000
+                    [DeviceId] => 139
+                    [UserId] => Mandeep Kaur
+                    [LogDate] => 2024-05-14 12:43:42.000
+                    [Direction] => 
+                    [AttDirection] => 
+                    [C1] => in
+                    [C2] => 
+                    [C3] => 
+                    [C4] => 0
+                    [C5] => 1
+                    [C6] => 
+                    [C7] => 
+                    [WorkCode] => 
+                    [UpdateFlag] => 0
+                    [EmployeeImage] => 
+                    [FileName] => 
+                    [Longitude] => 
+                    [Latitude] => 
+                    [IsApproved] => -1
+                    [CreatedDate] => 2024-05-14 12:43:48.000
+                    [LastModifiedDate] => 
+                    [LocationAddress] => 
+                    [BodyTemperature] => 0.0
+                    [IsMaskOn] => 0
+                )
+
+        )
+
+    [escapeWhenCastingToString:protected] => 
+)

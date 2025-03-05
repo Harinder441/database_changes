@@ -1,0 +1,3 @@
+INSERT INTO `tbl_privilege` (`id`, `module_id`, `privilege_name`, `privilege_slug`, `privilege_desc`, `url`, `status`, `logging`, `created_at`, `updated_at`, `created_by`, `updated_by`) VALUES 
+(NULL, '310', 'parent_sibling_other_branch_delete', 'parent_sibling_other_branch_delete', 'parent_sibling_other_branch_delete', 'api/privilege/create', '1', '0', '2016-07-01 06:29:03', '2016-07-01 06:29:03', '0', NULL),
+(NULL, '310', 'parent_sibling_other_branch_update', 'parent_sibling_other_branch_update', 'parent_sibling_other_branch_update', 'api/privilege/create', '1', '0', '2016-07-01 06:29:03', '2016-07-01 06:29:03', '0', NULL);

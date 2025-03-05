@@ -1,0 +1,43 @@
+DROP TABLE IF EXISTS `student_result_2425_details_half_final`;
+CREATE TABLE `student_result_2425_details_half_final` (
+  `result_id` int(11) NOT NULL,
+  `subject_id` int(11) NOT NULL,
+  `marks1` decimal(6,3) DEFAULT NULL,
+  `subtitle_id1` int(6) DEFAULT NULL,
+  `marks2` decimal(6,3) DEFAULT NULL,
+  `subtitle_id2` int(6) DEFAULT NULL,
+  `marks3` decimal(6,3) DEFAULT NULL,
+  `subtitle_id3` int(6) DEFAULT NULL,
+  `marks4` decimal(6,3) DEFAULT NULL,
+  `subtitle_id4` int(6) DEFAULT NULL,
+  `marks5` decimal(6,3) DEFAULT NULL,
+  `subtitle_id5` int(6) DEFAULT NULL,
+  `marks6` decimal(6,3) DEFAULT NULL,
+  `subtitle_id6` int(6) DEFAULT NULL,
+  `cal1` decimal(6,3) DEFAULT NULL,
+  `cal2` decimal(6,3) DEFAULT NULL,
+  `cal3` decimal(6,3) DEFAULT NULL,
+  `cal4` decimal(6,3) DEFAULT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
+
+INSERT INTO `class_marks_field_map` (`id`, `session`, `class_from`, `class_to`, `result_type`, `board`, `subject`, `final_exam`, `max_marks`, `total_marks`) VALUES
+(NULL, '2024-25', 0, 2, 'Half Yearly', 'CBSE', 6, 'cal2', 100, 'eng_cal2'),
+(NULL, '2024-25', 0, 2, 'Half Yearly', 'CBSE', 7, 'cal2', 100, 'punjabi_cal2'),
+(NULL, '2024-25', 0, 2, 'Half Yearly', 'CBSE', 8, 'cal2', 100, 'hindi_cal2'),
+(NULL, '2024-25', 0, 2, 'Half Yearly', 'CBSE', 9, 'cal2', 100, 'maths_cal2'),
+(NULL, '2024-25', 0, 2, 'Half Yearly', 'CBSE', 11, 'cal2', 100, 'evs_cal2'),
+(NULL, '2024-25', 0, 2, 'Half Yearly', 'CBSE', 12, 'cal2', 100, 'computer_cal1'),
+(NULL, '2024-25', 3, 5, 'Half Yearly', 'CBSE', 35, 'cal2', 100, 'eng_cal2'),
+(NULL, '2024-25', 3, 5, 'Half Yearly', 'CBSE', 36, 'cal2', 100, 'punjabi_cal2'),
+(NULL, '2024-25', 3, 5, 'Half Yearly', 'CBSE', 37, 'cal2', 100, 'hindi_cal2'),
+(NULL, '2024-25', 3, 5, 'Half Yearly', 'CBSE', 38, 'cal2', 100, 'maths_cal2'),
+(NULL, '2024-25', 3, 5, 'Half Yearly', 'CBSE', 39, 'cal2', 100, 'science_cal3'),
+(NULL, '2024-25', 3, 5, 'Half Yearly', 'CBSE', 40, 'cal2', 100, 'social_science_cal3'),
+(NULL, '2024-25', 3, 5, 'Half Yearly', 'CBSE', 41, 'cal2', 100, 'computer_cal2'),
+(NULL, '2024-25', 6, 8, 'Half Yearly', 'CBSE', 81, 'cal2', 100, 'eng_cal2'),
+(NULL, '2024-25', 6, 8, 'Half Yearly', 'CBSE', 82, 'cal2', 100, 'punjabi_cal2'),
+(NULL, '2024-25', 6, 8, 'Half Yearly', 'CBSE', 83, 'cal2', 100, 'hindi_cal2'),
+(NULL, '2024-25', 6, 8, 'Half Yearly', 'CBSE', 84, 'cal2', 100, 'maths_cal2'),
+(NULL, '2024-25', 6, 8, 'Half Yearly', 'CBSE', 85, 'cal2', 100, 'science_cal3'),
+(NULL, '2024-25', 6, 8, 'Half Yearly', 'CBSE', 86, 'cal2', 100, 'social_science_cal2'),
+(NULL, '2024-25', 6, 8, 'Half Yearly', 'CBSE', 87, 'cal3', 100, 'computer_cal2');

@@ -1,0 +1,253 @@
+    1  ls -li
+    2  ls
+    3  cd snap/
+    4  ls
+    5  cd lxd/
+    6  ls
+    7  cd ..
+    8  lsb_release -a
+    9  sudo apt install apache2
+   10  apache2 -v
+   11  sudo apt install mysql-server
+   12  sudo apt-get update
+   13  sudo apt install mysql-server
+   14  mysql -v
+   15  sudo apt-get update
+   16  sudo apt install php8.2
+   17  sudo add-apt-repository ppa:ondrej/php
+   18  sudo apt update
+   19  sudo apt install php8.2
+   20  php --version
+   21  sudo apt install  php8.2-cli php8.2-{zip,curl,mbstring,json,mysql,xaml,bcmath,gd}
+   22  sudo apt install  php8.2-cli php8.2-{zip,curl,mbstring,json,mysql,xml,bcmath,gd}
+   23  sudo apt install  php8.2-cli php8.2-{zip,curl,mbstring,mysql,xml,bcmath,gd}
+   24  ls
+   25  pwd
+   26  cd /rood
+   27  cd /root
+   28  ls
+   29  cd /
+   30  ls
+   31  cd /var/www/
+   32  ls
+   33  sudo apt update
+   34  curl -sS https://getcomposer.org/installer | php
+   35  sudo mv composer.phar /usr/local/bin/composer
+   36  composer --version
+   37  git -v
+   38  git --version
+   39  sudo mysql_secure_installation
+   40  show dbs;
+   41  show databases;
+   42  mysql
+   43  sudo mysql -u root
+   44  sudo mysql -u root -p
+   45  ls
+   46  cd html
+   47  ls
+   48  vi index.html
+   49  cd ..
+   50  git clone https://akalerp@bitbucket.org/akalerpbaan/university.git
+   51  ls
+   52  cd university/
+   53  ls
+   54  composer update
+   55  cd /etc/apache2/
+   56  ls
+   57  cd sites-available/
+   58  ls
+   59  vi 000-default.conf
+   60  sudo service apache2 restart
+   61  vi 000-default.conf
+   62  sudo service apache2 restart
+   63  vi 000-default.conf
+   64  sudo service apache2 restart
+   65  cd ..
+   66  php -v
+   67  cd sites-available/
+   68  vi 000-default.conf
+   69  php -v
+   70  cd /var/www/university/
+   71  cd ..
+   72  vi info.php
+   73  sudo apt-get install -y php8.2-fpm
+   74  sudo service apache2 restart
+   75  php -v
+   76  php -m
+   77  sudo systemctl start php8.2-fpm
+   78  sudo systemctl enable php8.2-fpm
+   79  sudo service apache2 restart
+   80  php -v
+   81  sudo a2enmod proxy_fcgi setenvif
+   82  systemctl restart apache2
+   83  php -v
+   84  sudo a2enconf php8.2-fpm
+   85  sudo systemctl restart apache2
+   86  php -v
+   87  cd var/www/
+   88  cd /var/www/
+   89  ls
+   90  cd university/
+   91  composer update
+   92  vi info.php
+   93  vi .evn
+   94  vi .env
+   95  php artisan route:list
+   96  composer dump-autoload
+   97  ls -li
+   98  cd storage/
+   99  ls -li
+  100  cd app/
+  101  ls -li
+  102  cd ..
+  103  cd framework/
+  104  ls -li
+  105  cd ..
+  106  ls -li
+  107  sudo chmod 777 /var/www/university
+  108  ls -li
+  109  cd ..
+  110  ls -li
+  111  vi .htaccess
+  112  rm .htaccess
+  113  ls -li
+  114  cd university/
+  115  sudo chown www-data:www-data -R .
+  116  php artisan route:cache
+  117  php artisan optimize
+  118  php artisan cache:clear
+  119  cd storage/framework/
+  120  ls
+  121  cd ..
+  122  ls
+  123  cd logs/
+  124  ls
+  125  vi laravel.log
+  126  rm laravel.log
+  127  vi laravel.log
+  128  php artisan route:clear
+  129  cd var/www
+  130  cd /var/www/
+  131  cd university/
+  132  php artisan route:clear
+  133  cd /etc/apache2
+  134  ls -li
+  135  cd sites-available/
+  136  ls -li
+  137  vi 000-default.conf
+  138  sudo service apache2 restart
+  139  php --version
+  140  vi 000-default.conf
+  141  sudo service apache2 restart
+  142  cd ..
+  143  ls -li
+  144  cd var/www/
+  145  cd /var/www/
+  146  ls -li
+  147  vi .htacess
+  148  sudo service apache2 restart
+  149  cd uviversity
+  150  cd university/
+  151  laravel -v
+  152  laravel --v
+  153  ls -li
+  154  cd storage/
+  155  ls -li
+  156  cd logs/
+  157  ls -li
+  158  cd ..
+  159  cd framework/
+  160  ls -li
+  161  cd views/
+  162  ls -li
+  163  CD ..
+  164  cd ..
+  165  php artisan --version
+  166  sudo a2enmod rewrite
+  167  systemctl restart apache2
+  168  history
+
+
+<VirtualHost *:80>
+  # Virtual host configuration + information (replicate changes to *:443 below)
+ # ServerAdmin webmaster@example.com
+  ServerName kalgidhartrust.info
+  #:wRedirect permanent / https://kalgidhartrust.info/
+  DocumentRoot /var/www/
+  ErrorLog /var/log/apache2/akalerp.error.log
+  CustomLog /var/log/apache2/akalerp.access.log combined
+
+
+        <Directory /var/www>
+        DirectoryIndex index.html index.htm index.php
+        Options -Indexes +FollowSymLinks +MultiViews
+        AllowOverride All
+        Require all granted
+        </Directory>
+
+        <FilesMatch \.php$>
+        SetHandler "proxy:unix:/run/php/php8.2-fpm.sock|fcgi://localhost/"
+        </FilesMatch>
+
+      <IfModule mod_php5.c>
+        AddType application/x-httpd-php .php
+
+        php_flag magic_quotes_gpc Off
+        php_flag track_vars On
+        php_flag register_globals Off
+        php_value include_path .:/usr/share/php
+      </IfModule>
+</VirtualHost>
+
+<IfModule mod_ssl.c>
+<VirtualHost *:443>
+ # Virtual host configuration + information (replicate changes to *:80 above)
+ #ServerAdmin webmaster@example.com
+ ServerName kalgidhartrust.info
+  DocumentRoot /var/www/
+  ErrorLog /var/log/apache2/akalerp.error.log
+
+
+
+
+
+
+<VirtualHost *:80>
+        # The ServerName directive sets the request scheme, hostname and port that
+        # the server uses to identify itself. This is used when creating
+        # redirection URLs. In the context of virtual hosts, the ServerName
+        # specifies what hostname must appear in the request's Host: header to
+        # match this virtual host. For the default virtual host (this file) this
+        # value is not decisive as it is used as a last resort host regardless.
+        # However, you must set it for any further virtual host explicitly.
+        # ServerName www.kalgidhartrust.info
+        ServerAdmin webmaster@localhost
+        DocumentRoot /var/www
+
+
+        <Directory /var/www>
+        Options -Indexes +FollowSymLinks +MultiViews
+        AllowOverride All
+        Require all granted
+        </Directory>
+
+        <FilesMatch \.php$>
+        SetHandler "proxy:unix:/run/php/php8.2-fpm.sock|fcgi://localhost/"
+        </FilesMatch>
+
+        # Available loglevels: trace8, ..., trace1, debug, info, notice, warn,
+        # error, crit, alert, emerg.
+        # It is also possible to configure the loglevel for particular
+        # modules, e.g.
+        #LogLevel info ssl:warn
+
+
+        ErrorLog ${APACHE_LOG_DIR}/error.log
+        CustomLog ${APACHE_LOG_DIR}/access.log combined
+
+        # For most configuration files from conf-available/, which are
+        # enabled or disabled at a global level, it is possible to
+        # include a line for only one particular virtual host. For example the
+        # following line enables the CGI configuration for this host only
+        # after it has been globally disabled with "a2disconf".
+        #Include conf-available/serve-cgi-bin.conf

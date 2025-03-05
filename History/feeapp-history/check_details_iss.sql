@@ -1,0 +1,3 @@
+INSERT INTO `cheque_details` (`id`, `school_id`, `receipt_no`, `chq_bank_name`, `chq_number`, `chq_date`, `amount`, `isRealised`, `remarks`, `fee_type`, `updated_by`, `updated_at`, `created_at`, `created_by`) VALUES (NULL, '25', '10038', 'SBI', '419009283865', '2024-07-08', '100', 'N', NULL, 'ary', NULL, NULL, '2024-07-08 09:27:49', '1');
+
+INSERT INTO `cheque_details` (`id`, `school_id`, `receipt_no`, `chq_bank_name`, `chq_number`, `chq_date`, `amount`, `isRealised`, `remarks`, `fee_type`, `updated_by`, `updated_at`, `created_at`, `created_by`) VALUES (NULL, '29', '100161', 'Google pay', '420069885959', '2024-07-18', '1100', 'N', NULL, 'ary', NULL, NULL, '2024-07-18 09:27:49', '1');

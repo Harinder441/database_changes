@@ -1,0 +1,445 @@
+2024-06-08  9:57:44 0 [Note] Starting MariaDB 10.4.32-MariaDB source revision c4143f909528e3fab0677a28631d10389354c491 as process 2312
+2024-06-08  9:57:45 0 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2024-06-08  9:57:45 0 [Note] InnoDB: Uses event mutexes
+2024-06-08  9:57:45 0 [Note] InnoDB: Compressed tables use zlib 1.3
+2024-06-08  9:57:45 0 [Note] InnoDB: Number of pools: 1
+2024-06-08  9:57:45 0 [Note] InnoDB: Using SSE2 crc32 instructions
+2024-06-08  9:57:45 0 [Note] InnoDB: Initializing buffer pool, total size = 16M, instances = 1, chunk size = 16M
+2024-06-08  9:57:45 0 [Note] InnoDB: Completed initialization of buffer pool
+2024-06-08  9:57:48 0 [Note] InnoDB: Starting crash recovery from checkpoint LSN=300288
+2024-06-08  9:58:02 0 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2024-06-08  9:58:02 0 [Note] InnoDB: Removed temporary tablespace data file: "ibtmp1"
+2024-06-08  9:58:02 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2024-06-08  9:58:02 0 [Note] InnoDB: Setting file 'E:\xamppnew\mysql\data\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2024-06-08  9:58:02 0 [Note] InnoDB: File 'E:\xamppnew\mysql\data\ibtmp1' size is now 12 MB.
+2024-06-08  9:58:02 0 [Note] InnoDB: Waiting for purge to start
+2024-06-08  9:58:02 0 [Note] InnoDB: 10.4.32 started; log sequence number 300297; transaction id 170
+2024-06-08  9:58:02 0 [Note] InnoDB: Loading buffer pool(s) from E:\xamppnew\mysql\data\ib_buffer_pool
+2024-06-08  9:58:02 0 [Note] Plugin 'FEEDBACK' is disabled.
+2024-06-08  9:58:03 0 [Note] Server socket created on IP: '::'.
+2024-06-08  9:58:04 0 [Note] InnoDB: Buffer pool(s) load completed at 240608  9:58:04
+2024-06-08  9:58:06 0 [Note] Reading of all Master_info entries succeeded
+2024-06-08  9:58:06 0 [Note] Added new Master_info '' to hash table
+2024-06-08  9:58:06 0 [Note] mysql\bin\mysqld: ready for connections.
+Version: '10.4.32-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
+2024-06-08 10:44:06 0 [Note] Starting MariaDB 10.4.32-MariaDB source revision c4143f909528e3fab0677a28631d10389354c491 as process 8832
+2024-06-08 10:44:06 0 [ERROR] InnoDB: The innodb_system data file 'ibdata1' must be writable
+2024-06-08 10:44:06 0 [ERROR] InnoDB: The innodb_system data file 'ibdata1' must be writable
+2024-06-08 10:44:06 0 [ERROR] Plugin 'InnoDB' registration as a STORAGE ENGINE failed.
+2024-06-08 10:44:06 0 [Note] Plugin 'FEEDBACK' is disabled.
+2024-06-08 10:44:06 0 [ERROR] Unknown/unsupported storage engine: InnoDB
+2024-06-08 10:44:06 0 [ERROR] Aborting
+2024-06-08 10:44:11 0 [Note] Starting MariaDB 10.4.32-MariaDB source revision c4143f909528e3fab0677a28631d10389354c491 as process 10628
+2024-06-08 10:44:11 0 [ERROR] InnoDB: The innodb_system data file 'ibdata1' must be writable
+2024-06-08 10:44:11 0 [ERROR] InnoDB: The innodb_system data file 'ibdata1' must be writable
+2024-06-08 10:44:11 0 [ERROR] Plugin 'InnoDB' registration as a STORAGE ENGINE failed.
+2024-06-08 10:44:11 0 [Note] Plugin 'FEEDBACK' is disabled.
+2024-06-08 10:44:11 0 [ERROR] Unknown/unsupported storage engine: InnoDB
+2024-06-08 10:44:11 0 [ERROR] Aborting
+2024-06-08 10:44:20 0 [Note] Starting MariaDB 10.4.32-MariaDB source revision c4143f909528e3fab0677a28631d10389354c491 as process 6100
+2024-06-08 10:44:20 0 [ERROR] InnoDB: The innodb_system data file 'ibdata1' must be writable
+2024-06-08 10:44:20 0 [ERROR] InnoDB: The innodb_system data file 'ibdata1' must be writable
+2024-06-08 10:44:20 0 [ERROR] Plugin 'InnoDB' registration as a STORAGE ENGINE failed.
+2024-06-08 10:44:20 0 [Note] Plugin 'FEEDBACK' is disabled.
+2024-06-08 10:44:20 0 [ERROR] Unknown/unsupported storage engine: InnoDB
+2024-06-08 10:44:20 0 [ERROR] Aborting
+2024-06-08 10:44:41 0 [Note] Starting MariaDB 10.4.32-MariaDB source revision c4143f909528e3fab0677a28631d10389354c491 as process 4500
+2024-06-08 10:44:41 0 [ERROR] InnoDB: The innodb_system data file 'ibdata1' must be writable
+2024-06-08 10:44:41 0 [ERROR] InnoDB: The innodb_system data file 'ibdata1' must be writable
+2024-06-08 10:44:41 0 [ERROR] Plugin 'InnoDB' registration as a STORAGE ENGINE failed.
+2024-06-08 10:44:41 0 [Note] Plugin 'FEEDBACK' is disabled.
+2024-06-08 10:44:41 0 [ERROR] Unknown/unsupported storage engine: InnoDB
+2024-06-08 10:44:41 0 [ERROR] Aborting
+2024-06-08 10:55:13 8 [Warning] Access denied for user 'erpfee'@'localhost' (using password: YES)
+2024-06-08 10:55:17 9 [Warning] Access denied for user 'erpfee'@'localhost' (using password: YES)
+2024-06-08 10:56:33 0 [Note] Starting MariaDB 10.4.32-MariaDB source revision c4143f909528e3fab0677a28631d10389354c491 as process 4780
+2024-06-08 10:56:33 0 [ERROR] InnoDB: The innodb_system data file 'ibdata1' must be writable
+2024-06-08 10:56:33 0 [ERROR] InnoDB: The innodb_system data file 'ibdata1' must be writable
+2024-06-08 10:56:33 0 [ERROR] Plugin 'InnoDB' registration as a STORAGE ENGINE failed.
+2024-06-08 10:56:33 0 [Note] Plugin 'FEEDBACK' is disabled.
+2024-06-08 10:56:33 0 [ERROR] Unknown/unsupported storage engine: InnoDB
+2024-06-08 10:56:33 0 [ERROR] Aborting
+2024-06-08 10:58:13 0 [Note] Starting MariaDB 10.4.32-MariaDB source revision c4143f909528e3fab0677a28631d10389354c491 as process 10692
+2024-06-08 10:58:13 0 [ERROR] InnoDB: The innodb_system data file 'ibdata1' must be writable
+2024-06-08 10:58:13 0 [ERROR] InnoDB: The innodb_system data file 'ibdata1' must be writable
+2024-06-08 10:58:13 0 [ERROR] Plugin 'InnoDB' registration as a STORAGE ENGINE failed.
+2024-06-08 10:58:13 0 [Note] Plugin 'FEEDBACK' is disabled.
+2024-06-08 10:58:13 0 [ERROR] Unknown/unsupported storage engine: InnoDB
+2024-06-08 10:58:13 0 [ERROR] Aborting
+2024-06-08 10:58:16 0 [Note] Starting MariaDB 10.4.32-MariaDB source revision c4143f909528e3fab0677a28631d10389354c491 as process 4916
+2024-06-08 10:58:16 0 [ERROR] InnoDB: The innodb_system data file 'ibdata1' must be writable
+2024-06-08 10:58:16 0 [ERROR] InnoDB: The innodb_system data file 'ibdata1' must be writable
+2024-06-08 10:58:16 0 [ERROR] Plugin 'InnoDB' registration as a STORAGE ENGINE failed.
+2024-06-08 10:58:16 0 [Note] Plugin 'FEEDBACK' is disabled.
+2024-06-08 10:58:16 0 [ERROR] Unknown/unsupported storage engine: InnoDB
+2024-06-08 10:58:16 0 [ERROR] Aborting
+2024-06-08 10:58:20 0 [Note] Starting MariaDB 10.4.32-MariaDB source revision c4143f909528e3fab0677a28631d10389354c491 as process 4300
+2024-06-08 10:58:20 0 [ERROR] InnoDB: The innodb_system data file 'ibdata1' must be writable
+2024-06-08 10:58:20 0 [ERROR] InnoDB: The innodb_system data file 'ibdata1' must be writable
+2024-06-08 10:58:20 0 [ERROR] Plugin 'InnoDB' registration as a STORAGE ENGINE failed.
+2024-06-08 10:58:20 0 [Note] Plugin 'FEEDBACK' is disabled.
+2024-06-08 10:58:20 0 [ERROR] Unknown/unsupported storage engine: InnoDB
+2024-06-08 10:58:20 0 [ERROR] Aborting
+2024-06-08 10:58:47 10 [Warning] Access denied for user 'erpfee'@'localhost' (using password: YES)
+2024-06-08 10:58:50 11 [Warning] Access denied for user 'erpfee'@'localhost' (using password: YES)
+2024-06-08 10:59:00 12 [Warning] Access denied for user 'erpfee'@'localhost' (using password: YES)
+2024-06-08 10:59:03 13 [Warning] Access denied for user 'erpfee'@'localhost' (using password: YES)
+2024-06-08 10:59:29 14 [Warning] Access denied for user 'erpfee'@'localhost' (using password: YES)
+2024-06-08 10:59:45 0 [Note] Starting MariaDB 10.4.32-MariaDB source revision c4143f909528e3fab0677a28631d10389354c491 as process 4336
+2024-06-08 10:59:45 0 [ERROR] InnoDB: The innodb_system data file 'ibdata1' must be writable
+2024-06-08 10:59:45 0 [ERROR] InnoDB: The innodb_system data file 'ibdata1' must be writable
+2024-06-08 10:59:45 0 [ERROR] Plugin 'InnoDB' registration as a STORAGE ENGINE failed.
+2024-06-08 10:59:45 0 [Note] Plugin 'FEEDBACK' is disabled.
+2024-06-08 10:59:45 0 [ERROR] Unknown/unsupported storage engine: InnoDB
+2024-06-08 10:59:45 0 [ERROR] Aborting
+2024-06-08 10:59:52 15 [Warning] Access denied for user 'erpfee'@'localhost' (using password: YES)
+2024-06-08 11:00:04 16 [Warning] Access denied for user 'erpfee'@'localhost' (using password: YES)
+2024-06-08 11:00:30 17 [Warning] Access denied for user 'erpfee'@'localhost' (using password: YES)
+2024-06-08 11:00:44 0 [Note] Starting MariaDB 10.4.32-MariaDB source revision c4143f909528e3fab0677a28631d10389354c491 as process 5240
+2024-06-08 11:00:44 0 [ERROR] InnoDB: The innodb_system data file 'ibdata1' must be writable
+2024-06-08 11:00:44 0 [ERROR] InnoDB: The innodb_system data file 'ibdata1' must be writable
+2024-06-08 11:00:44 0 [ERROR] Plugin 'InnoDB' registration as a STORAGE ENGINE failed.
+2024-06-08 11:00:44 0 [Note] Plugin 'FEEDBACK' is disabled.
+2024-06-08 11:00:44 0 [ERROR] Unknown/unsupported storage engine: InnoDB
+2024-06-08 11:00:44 0 [ERROR] Aborting
+2024-06-08 11:00:47 0 [Note] Starting MariaDB 10.4.32-MariaDB source revision c4143f909528e3fab0677a28631d10389354c491 as process 672
+2024-06-08 11:00:47 0 [ERROR] InnoDB: The innodb_system data file 'ibdata1' must be writable
+2024-06-08 11:00:47 0 [ERROR] InnoDB: The innodb_system data file 'ibdata1' must be writable
+2024-06-08 11:00:47 0 [ERROR] Plugin 'InnoDB' registration as a STORAGE ENGINE failed.
+2024-06-08 11:00:47 0 [Note] Plugin 'FEEDBACK' is disabled.
+2024-06-08 11:00:47 0 [ERROR] Unknown/unsupported storage engine: InnoDB
+2024-06-08 11:00:47 0 [ERROR] Aborting
+2024-06-08 11:01:29 18 [Warning] Access denied for user 'erpfee'@'localhost' (using password: YES)
+2024-06-08 11:02:29 19 [Warning] Access denied for user 'erpfee'@'localhost' (using password: YES)
+2024-06-08 11:03:29 20 [Warning] Access denied for user 'erpfee'@'localhost' (using password: YES)
+2024-06-08 11:04:29 21 [Warning] Access denied for user 'erpfee'@'localhost' (using password: YES)
+2024-06-08 11:05:29 22 [Warning] Access denied for user 'erpfee'@'localhost' (using password: YES)
+2024-06-08 11:06:29 23 [Warning] Access denied for user 'erpfee'@'localhost' (using password: YES)
+2024-06-08 11:07:29 24 [Warning] Access denied for user 'erpfee'@'localhost' (using password: YES)
+2024-06-08 11:08:29 25 [Warning] Access denied for user 'erpfee'@'localhost' (using password: YES)
+2024-06-08 11:09:21 26 [Warning] Access denied for user 'erpfee'@'localhost' (using password: YES)
+2024-06-08 11:09:29 27 [Warning] Access denied for user 'erpfee'@'localhost' (using password: YES)
+2024-06-08 11:10:29 28 [Warning] Access denied for user 'erpfee'@'localhost' (using password: YES)
+2024-06-08 11:11:29 29 [Warning] Access denied for user 'erpfee'@'localhost' (using password: YES)
+2024-06-08 11:12:29 30 [Warning] Access denied for user 'erpfee'@'localhost' (using password: YES)
+2024-06-08 11:13:29 31 [Warning] Access denied for user 'erpfee'@'localhost' (using password: YES)
+2024-06-08 11:14:29 32 [Warning] Access denied for user 'erpfee'@'localhost' (using password: YES)
+2024-06-08 11:15:29 33 [Warning] Access denied for user 'erpfee'@'localhost' (using password: YES)
+2024-06-08 11:16:29 34 [Warning] Access denied for user 'erpfee'@'localhost' (using password: YES)
+2024-06-08 11:17:29 35 [Warning] Access denied for user 'erpfee'@'localhost' (using password: YES)
+2024-06-08 11:18:30 36 [Warning] Access denied for user 'erpfee'@'localhost' (using password: YES)
+2024-06-08 11:19:29 37 [Warning] Access denied for user 'erpfee'@'localhost' (using password: YES)
+2024-06-08 11:20:29 38 [Warning] Access denied for user 'erpfee'@'localhost' (using password: YES)
+2024-06-08 11:21:30 39 [Warning] Access denied for user 'erpfee'@'localhost' (using password: YES)
+2024-06-08 11:21:48 40 [Warning] Hostname 'internettl.org' does not resolve to '104.152.52.129'.
+2024-06-08 11:21:48 40 [Note] Hostname 'internettl.org' has the following IP addresses:
+2024-06-08 11:21:48 40 [Note]  - 162.255.119.131
+2024-06-08 11:21:48 40 [Warning] Aborted connection 40 to db: 'unconnected' user: 'unauthenticated' host: '104.152.52.129' (This connection closed normally without authentication)
+2024-06-08 11:22:29 41 [Warning] Access denied for user 'erpfee'@'localhost' (using password: YES)
+2024-06-08 11:23:29 42 [Warning] Access denied for user 'erpfee'@'localhost' (using password: YES)
+2024-06-08 11:24:35 43 [Warning] Access denied for user 'erpfee'@'localhost' (using password: YES)
+2024-06-08 11:24:39 44 [Warning] Access denied for user 'erpfee'@'localhost' (using password: YES)
+2024-06-08 11:25:29 45 [Warning] Access denied for user 'erpfee'@'localhost' (using password: YES)
+2024-06-08 11:26:29 46 [Warning] Access denied for user 'erpfee'@'localhost' (using password: YES)
+2024-06-08 11:27:29 47 [Warning] Access denied for user 'erpfee'@'localhost' (using password: YES)
+2024-06-08 11:28:29 48 [Warning] Access denied for user 'erpfee'@'localhost' (using password: YES)
+2024-06-08 11:29:30 49 [Warning] Access denied for user 'erpfee'@'localhost' (using password: YES)
+2024-06-08 11:30:30 50 [Warning] Access denied for user 'erpfee'@'localhost' (using password: YES)
+2024-06-08 11:31:29 51 [Warning] Access denied for user 'erpfee'@'localhost' (using password: YES)
+2024-06-08 11:32:29 52 [Warning] Access denied for user 'erpfee'@'localhost' (using password: YES)
+2024-06-08 11:33:29 53 [Warning] Access denied for user 'erpfee'@'localhost' (using password: YES)
+2024-06-08 11:34:29 54 [Warning] Access denied for user 'erpfee'@'localhost' (using password: YES)
+2024-06-08 11:35:29 55 [Warning] Access denied for user 'erpfee'@'localhost' (using password: YES)
+2024-06-08 11:36:29 56 [Warning] Access denied for user 'erpfee'@'localhost' (using password: YES)
+2024-06-08 11:37:29 57 [Warning] Access denied for user 'erpfee'@'localhost' (using password: YES)
+2024-06-08 11:38:29 58 [Warning] Access denied for user 'erpfee'@'localhost' (using password: YES)
+2024-06-08 11:39:21 59 [Warning] Access denied for user 'erpfee'@'localhost' (using password: YES)
+2024-06-08 11:39:29 60 [Warning] Access denied for user 'erpfee'@'localhost' (using password: YES)
+2024-06-08 11:40:30 61 [Warning] Access denied for user 'erpfee'@'localhost' (using password: YES)
+2024-06-08 11:41:29 62 [Warning] Access denied for user 'erpfee'@'localhost' (using password: YES)
+2024-06-08 11:42:29 63 [Warning] Access denied for user 'erpfee'@'localhost' (using password: YES)
+2024-06-08 11:43:29 64 [Warning] Access denied for user 'erpfee'@'localhost' (using password: YES)
+2024-06-08 11:44:29 65 [Warning] Access denied for user 'erpfee'@'localhost' (using password: YES)
+2024-06-08 11:45:29 66 [Warning] Access denied for user 'erpfee'@'localhost' (using password: YES)
+2024-06-08 11:46:29 67 [Warning] Access denied for user 'erpfee'@'localhost' (using password: YES)
+2024-06-08 11:47:29 68 [Warning] Access denied for user 'erpfee'@'localhost' (using password: YES)
+2024-06-08 11:48:29 69 [Warning] Access denied for user 'erpfee'@'localhost' (using password: YES)
+2024-06-08 11:49:29 70 [Warning] Access denied for user 'erpfee'@'localhost' (using password: YES)
+2024-06-08 11:50:29 71 [Warning] Access denied for user 'erpfee'@'localhost' (using password: YES)
+2024-06-08 11:51:29 72 [Warning] Access denied for user 'erpfee'@'localhost' (using password: YES)
+2024-06-08 11:52:29 73 [Warning] Access denied for user 'erpfee'@'localhost' (using password: YES)
+2024-06-08 11:53:29 74 [Warning] Access denied for user 'erpfee'@'localhost' (using password: YES)
+2024-06-08 11:54:21 75 [Warning] Access denied for user 'erpfee'@'localhost' (using password: YES)
+2024-06-08 11:54:29 76 [Warning] Access denied for user 'erpfee'@'localhost' (using password: YES)
+2024-06-08 11:55:29 77 [Warning] Access denied for user 'erpfee'@'localhost' (using password: YES)
+2024-06-08 11:56:29 78 [Warning] Access denied for user 'erpfee'@'localhost' (using password: YES)
+2024-06-08 11:57:29 79 [Warning] Access denied for user 'erpfee'@'localhost' (using password: YES)
+2024-06-08 11:58:29 80 [Warning] Access denied for user 'erpfee'@'localhost' (using password: YES)
+2024-06-08 11:59:29 81 [Warning] Access denied for user 'erpfee'@'localhost' (using password: YES)
+2024-06-08 12:00:03 82 [Warning] Access denied for user 'erpfee'@'localhost' (using password: YES)
+2024-06-08 12:00:29 83 [Warning] Access denied for user 'erpfee'@'localhost' (using password: YES)
+2024-06-08 12:01:29 84 [Warning] Access denied for user 'erpfee'@'localhost' (using password: YES)
+2024-06-08 12:02:29 85 [Warning] Access denied for user 'erpfee'@'localhost' (using password: YES)
+2024-06-08 12:03:29 86 [Warning] Access denied for user 'erpfee'@'localhost' (using password: YES)
+2024-06-08 12:04:12 87 [Warning] Aborted connection 87 to db: 'unconnected' user: 'unauthenticated' host: 'respected.monitoring.internet-measurement.com' (This connection closed normally without authentication)
+2024-06-08 12:04:29 88 [Warning] Access denied for user 'erpfee'@'localhost' (using password: YES)
+2024-06-08 12:05:29 89 [Warning] Access denied for user 'erpfee'@'localhost' (using password: YES)
+2024-06-08 12:06:29 90 [Warning] Access denied for user 'erpfee'@'localhost' (using password: YES)
+2024-06-08 12:07:29 91 [Warning] Access denied for user 'erpfee'@'localhost' (using password: YES)
+2024-06-08 12:08:29 92 [Warning] Access denied for user 'erpfee'@'localhost' (using password: YES)
+2024-06-08 12:09:21 93 [Warning] Access denied for user 'erpfee'@'localhost' (using password: YES)
+2024-06-08 12:09:29 94 [Warning] Access denied for user 'erpfee'@'localhost' (using password: YES)
+2024-06-08 12:10:29 95 [Warning] Access denied for user 'erpfee'@'localhost' (using password: YES)
+2024-06-08 12:11:29 96 [Warning] Access denied for user 'erpfee'@'localhost' (using password: YES)
+2024-06-08 12:12:29 97 [Warning] Access denied for user 'erpfee'@'localhost' (using password: YES)
+2024-06-08 12:13:29 98 [Warning] Access denied for user 'erpfee'@'localhost' (using password: YES)
+2024-06-08 12:14:29 99 [Warning] Access denied for user 'erpfee'@'localhost' (using password: YES)
+2024-06-08 12:15:29 100 [Warning] Access denied for user 'erpfee'@'localhost' (using password: YES)
+2024-06-08 12:16:29 101 [Warning] Access denied for user 'erpfee'@'localhost' (using password: YES)
+2024-06-08 12:17:29 102 [Warning] Access denied for user 'erpfee'@'localhost' (using password: YES)
+2024-06-08 12:18:30 103 [Warning] Access denied for user 'erpfee'@'localhost' (using password: YES)
+2024-06-08 12:19:29 104 [Warning] Access denied for user 'erpfee'@'localhost' (using password: YES)
+2024-06-08 12:20:29 105 [Warning] Access denied for user 'erpfee'@'localhost' (using password: YES)
+2024-06-08 12:21:29 106 [Warning] Access denied for user 'erpfee'@'localhost' (using password: YES)
+2024-06-08 12:22:29 107 [Warning] Access denied for user 'erpfee'@'localhost' (using password: YES)
+2024-06-08 12:23:29 108 [Warning] Access denied for user 'erpfee'@'localhost' (using password: YES)
+2024-06-08 12:24:21 109 [Warning] Access denied for user 'erpfee'@'localhost' (using password: YES)
+2024-06-08 12:24:29 110 [Warning] Access denied for user 'erpfee'@'localhost' (using password: YES)
+2024-06-08 12:25:29 111 [Warning] Access denied for user 'erpfee'@'localhost' (using password: YES)
+2024-06-08 12:26:29 112 [Warning] Access denied for user 'erpfee'@'localhost' (using password: YES)
+2024-06-08 12:27:29 113 [Warning] Access denied for user 'erpfee'@'localhost' (using password: YES)
+2024-06-08 12:28:29 114 [Warning] Access denied for user 'erpfee'@'localhost' (using password: YES)
+2024-06-08 12:29:30 115 [Warning] Access denied for user 'erpfee'@'localhost' (using password: YES)
+2024-06-08 12:30:30 116 [Warning] Access denied for user 'erpfee'@'localhost' (using password: YES)
+2024-06-08 12:31:30 117 [Warning] Access denied for user 'erpfee'@'localhost' (using password: YES)
+2024-06-08 12:32:30 118 [Warning] Access denied for user 'erpfee'@'localhost' (using password: YES)
+2024-06-08 12:33:30 119 [Warning] Access denied for user 'erpfee'@'localhost' (using password: YES)
+2024-06-08 12:34:29 120 [Warning] Access denied for user 'erpfee'@'localhost' (using password: YES)
+2024-06-08 12:35:29 121 [Warning] Access denied for user 'erpfee'@'localhost' (using password: YES)
+2024-06-08 12:36:29 122 [Warning] Access denied for user 'erpfee'@'localhost' (using password: YES)
+2024-06-08 12:37:29 123 [Warning] Access denied for user 'erpfee'@'localhost' (using password: YES)
+2024-06-08 12:38:30 124 [Warning] Access denied for user 'erpfee'@'localhost' (using password: YES)
+2024-06-08 12:39:22 125 [Warning] Access denied for user 'erpfee'@'localhost' (using password: YES)
+2024-06-08 12:39:30 126 [Warning] Access denied for user 'erpfee'@'localhost' (using password: YES)
+2024-06-08 12:40:30 128 [Warning] Access denied for user 'erpfee'@'localhost' (using password: YES)
+2024-06-08 12:40:47 127 [ERROR] InnoDB: Cannot add field `urine_test_other` in table `feeapp`.`ipd_format` because after adding it, the row size is 8318 which is greater than maximum allowed size (8126 bytes) for a record on index leaf page.
+2024-06-08 12:40:51 127 [ERROR] InnoDB: Cannot add field `urine_test_other` in table `feeapp`.`opd_format` because after adding it, the row size is 8130 which is greater than maximum allowed size (8126 bytes) for a record on index leaf page.
+2024-06-08 12:41:30 129 [Warning] Access denied for user 'erpfee'@'localhost' (using password: YES)
+2024-06-08 13:38:27 127 [Warning] Aborted connection 127 to db: 'feeapp' user: 'root' host: 'localhost' (Got an error reading communication packets)
+2024-06-11  9:40:53 478 [Warning] Hostname 'apzg-0721n-040.stretchoid.com' does not resolve to '104.131.128.26'.
+2024-06-11  9:40:53 478 [Note] Hostname 'apzg-0721n-040.stretchoid.com' has the following IP addresses:
+2024-06-11  9:40:53 478 [Note]  - 127.0.0.1
+2024-06-11  9:40:53 478 [Warning] Aborted connection 478 to db: 'unconnected' user: 'unauthenticated' host: '104.131.128.26' (This connection closed normally without authentication)
+2024-06-11 10:52:05 620 [Warning] IP address '182.78.191.129' could not be resolved: No such host is known. 
+2024-06-11 10:52:05 621 [Warning] IP address '182.78.191.129' could not be resolved: No such host is known. 
+2024-06-11 10:52:05 621 [Warning] Aborted connection 621 to db: 'unconnected' user: 'unauthenticated' host: '182.78.191.129' (This connection closed normally without authentication)
+2024-06-11 10:52:05 620 [Warning] Aborted connection 620 to db: 'unconnected' user: 'unauthenticated' host: '182.78.191.129' (This connection closed normally without authentication)
+2024-06-11 11:08:03 639 [Warning] IP address '71.6.232.22' could not be resolved: No such host is known. 
+2024-06-11 11:08:03 639 [Warning] Aborted connection 639 to db: 'unconnected' user: 'unauthenticated' host: '71.6.232.22' (This connection closed normally without authentication)
+2024-06-11 12:29:36 757 [Warning] Aborted connection 757 to db: 'unconnected' user: 'unauthenticated' host: 'felicitous.monitoring.internet-measurement.com' (This connection closed normally without authentication)
+2024-06-12  9:12:30 0 [Note] Starting MariaDB 10.4.32-MariaDB source revision c4143f909528e3fab0677a28631d10389354c491 as process 5456
+Cannot find checkpoint record at LSN (1,0x570e)
+2024-06-12  9:12:30 0 [ERROR] mysqld: Aria recovery failed. Please run aria_chk -r on all Aria tables and delete all aria_log.######## files
+2024-06-12  9:12:31 0 [ERROR] Plugin 'Aria' registration as a STORAGE ENGINE failed.
+2024-06-12  9:12:31 0 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2024-06-12  9:12:31 0 [Note] InnoDB: Uses event mutexes
+2024-06-12  9:12:31 0 [Note] InnoDB: Compressed tables use zlib 1.3
+2024-06-12  9:12:31 0 [Note] InnoDB: Number of pools: 1
+2024-06-12  9:12:31 0 [Note] InnoDB: Using SSE2 crc32 instructions
+2024-06-12  9:12:31 0 [Note] InnoDB: Initializing buffer pool, total size = 16M, instances = 1, chunk size = 16M
+2024-06-12  9:12:31 0 [Note] InnoDB: Completed initialization of buffer pool
+2024-06-12  9:12:32 0 [Note] InnoDB: Starting crash recovery from checkpoint LSN=46448894
+2024-06-12  9:12:47 0 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2024-06-12  9:12:47 0 [Note] InnoDB: Removed temporary tablespace data file: "ibtmp1"
+2024-06-12  9:12:47 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2024-06-12  9:12:47 0 [Note] InnoDB: Setting file 'E:\xamppnew\mysql\data\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2024-06-12  9:12:47 0 [Note] InnoDB: File 'E:\xamppnew\mysql\data\ibtmp1' size is now 12 MB.
+2024-06-12  9:12:47 0 [Note] InnoDB: Waiting for purge to start
+2024-06-12  9:12:47 0 [Note] InnoDB: 10.4.32 started; log sequence number 46448903; transaction id 1735
+2024-06-12  9:12:47 0 [Note] InnoDB: Loading buffer pool(s) from E:\xamppnew\mysql\data\ib_buffer_pool
+2024-06-12  9:12:47 0 [Note] Plugin 'FEEDBACK' is disabled.
+2024-06-12  9:12:48 0 [ERROR] Could not open mysql.plugin table. Some plugins may be not loaded
+2024-06-12  9:12:48 0 [ERROR] Failed to initialize plugins.
+2024-06-12  9:12:48 0 [ERROR] Aborting
+2024-06-12  9:46:52 0 [Note] Starting MariaDB 10.4.32-MariaDB source revision c4143f909528e3fab0677a28631d10389354c491 as process 904
+Cannot find checkpoint record at LSN (1,0x570e)
+2024-06-12  9:46:52 0 [ERROR] mysqld.exe: Aria recovery failed. Please run aria_chk -r on all Aria tables and delete all aria_log.######## files
+2024-06-12  9:46:52 0 [ERROR] Plugin 'Aria' registration as a STORAGE ENGINE failed.
+2024-06-12  9:46:52 0 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2024-06-12  9:46:52 0 [Note] InnoDB: Uses event mutexes
+2024-06-12  9:46:52 0 [Note] InnoDB: Compressed tables use zlib 1.3
+2024-06-12  9:46:52 0 [Note] InnoDB: Number of pools: 1
+2024-06-12  9:46:52 0 [Note] InnoDB: Using SSE2 crc32 instructions
+2024-06-12  9:46:52 0 [Note] InnoDB: Initializing buffer pool, total size = 16M, instances = 1, chunk size = 16M
+2024-06-12  9:46:52 0 [Note] InnoDB: Completed initialization of buffer pool
+2024-06-12  9:46:53 0 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2024-06-12  9:46:53 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2024-06-12  9:46:53 0 [Note] InnoDB: Setting file 'E:\xamppnew\mysql\data\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2024-06-12  9:46:53 0 [Note] InnoDB: File 'E:\xamppnew\mysql\data\ibtmp1' size is now 12 MB.
+2024-06-12  9:46:53 0 [Note] InnoDB: Waiting for purge to start
+2024-06-12  9:46:53 0 [Note] InnoDB: 10.4.32 started; log sequence number 46448912; transaction id 1735
+2024-06-12  9:46:53 0 [Note] InnoDB: Loading buffer pool(s) from E:\xamppnew\mysql\data\ib_buffer_pool
+2024-06-12  9:46:53 0 [Note] Plugin 'FEEDBACK' is disabled.
+2024-06-12  9:46:53 0 [ERROR] Could not open mysql.plugin table. Some plugins may be not loaded
+2024-06-12  9:46:53 0 [ERROR] Failed to initialize plugins.
+2024-06-12  9:46:53 0 [ERROR] Aborting
+2024-06-12  9:47:06 0 [Note] Starting MariaDB 10.4.32-MariaDB source revision c4143f909528e3fab0677a28631d10389354c491 as process 6832
+Cannot find checkpoint record at LSN (1,0x570e)
+2024-06-12  9:47:06 0 [ERROR] mysqld.exe: Aria recovery failed. Please run aria_chk -r on all Aria tables and delete all aria_log.######## files
+2024-06-12  9:47:06 0 [ERROR] Plugin 'Aria' registration as a STORAGE ENGINE failed.
+2024-06-12  9:47:06 0 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2024-06-12  9:47:06 0 [Note] InnoDB: Uses event mutexes
+2024-06-12  9:47:06 0 [Note] InnoDB: Compressed tables use zlib 1.3
+2024-06-12  9:47:06 0 [Note] InnoDB: Number of pools: 1
+2024-06-12  9:47:06 0 [Note] InnoDB: Using SSE2 crc32 instructions
+2024-06-12  9:47:06 0 [Note] InnoDB: Initializing buffer pool, total size = 16M, instances = 1, chunk size = 16M
+2024-06-12  9:47:06 0 [Note] InnoDB: Completed initialization of buffer pool
+2024-06-12  9:47:06 0 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2024-06-12  9:47:06 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2024-06-12  9:47:06 0 [Note] InnoDB: Setting file 'E:\xamppnew\mysql\data\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2024-06-12  9:47:06 0 [Note] InnoDB: File 'E:\xamppnew\mysql\data\ibtmp1' size is now 12 MB.
+2024-06-12  9:47:06 0 [Note] InnoDB: Waiting for purge to start
+2024-06-12  9:47:06 0 [Note] InnoDB: 10.4.32 started; log sequence number 46448921; transaction id 1735
+2024-06-12  9:47:06 0 [Note] InnoDB: Loading buffer pool(s) from E:\xamppnew\mysql\data\ib_buffer_pool
+2024-06-12  9:47:06 0 [Note] Plugin 'FEEDBACK' is disabled.
+2024-06-12  9:47:06 0 [Note] InnoDB: Buffer pool(s) load completed at 240612  9:47:06
+2024-06-12  9:47:06 0 [ERROR] Could not open mysql.plugin table. Some plugins may be not loaded
+2024-06-12  9:47:06 0 [ERROR] Failed to initialize plugins.
+2024-06-12  9:47:06 0 [ERROR] Aborting
+2024-06-12  9:47:18 0 [Note] Starting MariaDB 10.4.32-MariaDB source revision c4143f909528e3fab0677a28631d10389354c491 as process 11256
+Cannot find checkpoint record at LSN (1,0x570e)
+2024-06-12  9:47:18 0 [ERROR] mysqld.exe: Aria recovery failed. Please run aria_chk -r on all Aria tables and delete all aria_log.######## files
+2024-06-12  9:47:18 0 [ERROR] Plugin 'Aria' registration as a STORAGE ENGINE failed.
+2024-06-12  9:47:18 0 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2024-06-12  9:47:18 0 [Note] InnoDB: Uses event mutexes
+2024-06-12  9:47:18 0 [Note] InnoDB: Compressed tables use zlib 1.3
+2024-06-12  9:47:18 0 [Note] InnoDB: Number of pools: 1
+2024-06-12  9:47:18 0 [Note] InnoDB: Using SSE2 crc32 instructions
+2024-06-12  9:47:18 0 [Note] InnoDB: Initializing buffer pool, total size = 16M, instances = 1, chunk size = 16M
+2024-06-12  9:47:18 0 [Note] InnoDB: Completed initialization of buffer pool
+2024-06-12  9:47:18 0 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2024-06-12  9:47:18 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2024-06-12  9:47:18 0 [Note] InnoDB: Setting file 'E:\xamppnew\mysql\data\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2024-06-12  9:47:18 0 [Note] InnoDB: File 'E:\xamppnew\mysql\data\ibtmp1' size is now 12 MB.
+2024-06-12  9:47:18 0 [Note] InnoDB: Waiting for purge to start
+2024-06-12  9:47:18 0 [Note] InnoDB: 10.4.32 started; log sequence number 46448930; transaction id 1735
+2024-06-12  9:47:18 0 [Note] InnoDB: Loading buffer pool(s) from E:\xamppnew\mysql\data\ib_buffer_pool
+2024-06-12  9:47:18 0 [Note] Plugin 'FEEDBACK' is disabled.
+2024-06-12  9:47:18 0 [ERROR] Could not open mysql.plugin table. Some plugins may be not loaded
+2024-06-12  9:47:18 0 [ERROR] Failed to initialize plugins.
+2024-06-12  9:47:18 0 [ERROR] Aborting
+2024-06-13 11:20:36 0 [Note] Starting MariaDB 10.4.32-MariaDB source revision c4143f909528e3fab0677a28631d10389354c491 as process 4920
+Cannot find checkpoint record at LSN (1,0x570e)
+2024-06-13 11:20:36 0 [ERROR] mysqld.exe: Aria recovery failed. Please run aria_chk -r on all Aria tables and delete all aria_log.######## files
+2024-06-13 11:20:36 0 [ERROR] Plugin 'Aria' registration as a STORAGE ENGINE failed.
+2024-06-13 11:20:36 0 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2024-06-13 11:20:36 0 [Note] InnoDB: Uses event mutexes
+2024-06-13 11:20:36 0 [Note] InnoDB: Compressed tables use zlib 1.3
+2024-06-13 11:20:36 0 [Note] InnoDB: Number of pools: 1
+2024-06-13 11:20:36 0 [Note] InnoDB: Using SSE2 crc32 instructions
+2024-06-13 11:20:36 0 [Note] InnoDB: Initializing buffer pool, total size = 16M, instances = 1, chunk size = 16M
+2024-06-13 11:20:36 0 [Note] InnoDB: Completed initialization of buffer pool
+2024-06-13 11:20:38 0 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2024-06-13 11:20:38 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2024-06-13 11:20:38 0 [Note] InnoDB: Setting file 'E:\xamppnew\mysql\data\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2024-06-13 11:20:38 0 [Note] InnoDB: File 'E:\xamppnew\mysql\data\ibtmp1' size is now 12 MB.
+2024-06-13 11:20:38 0 [Note] InnoDB: Waiting for purge to start
+2024-06-13 11:20:38 0 [Note] InnoDB: 10.4.32 started; log sequence number 46448939; transaction id 1735
+2024-06-13 11:20:38 0 [Note] InnoDB: Loading buffer pool(s) from E:\xamppnew\mysql\data\ib_buffer_pool
+2024-06-13 11:20:38 0 [Note] Plugin 'FEEDBACK' is disabled.
+2024-06-13 11:20:38 0 [Note] InnoDB: Buffer pool(s) load completed at 240613 11:20:38
+2024-06-13 11:20:38 0 [ERROR] Could not open mysql.plugin table. Some plugins may be not loaded
+2024-06-13 11:20:38 0 [ERROR] Failed to initialize plugins.
+2024-06-13 11:20:38 0 [ERROR] Aborting
+2024-06-13 11:20:53 0 [Note] Starting MariaDB 10.4.32-MariaDB source revision c4143f909528e3fab0677a28631d10389354c491 as process 6048
+Cannot find checkpoint record at LSN (1,0x570e)
+2024-06-13 11:20:53 0 [ERROR] mysqld.exe: Aria recovery failed. Please run aria_chk -r on all Aria tables and delete all aria_log.######## files
+2024-06-13 11:20:53 0 [ERROR] Plugin 'Aria' registration as a STORAGE ENGINE failed.
+2024-06-13 11:20:53 0 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2024-06-13 11:20:53 0 [Note] InnoDB: Uses event mutexes
+2024-06-13 11:20:53 0 [Note] InnoDB: Compressed tables use zlib 1.3
+2024-06-13 11:20:53 0 [Note] InnoDB: Number of pools: 1
+2024-06-13 11:20:53 0 [Note] InnoDB: Using SSE2 crc32 instructions
+2024-06-13 11:20:53 0 [Note] InnoDB: Initializing buffer pool, total size = 16M, instances = 1, chunk size = 16M
+2024-06-13 11:20:53 0 [Note] InnoDB: Completed initialization of buffer pool
+2024-06-13 11:20:53 0 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2024-06-13 11:20:53 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2024-06-13 11:20:53 0 [Note] InnoDB: Setting file 'E:\xamppnew\mysql\data\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2024-06-13 11:20:53 0 [Note] InnoDB: File 'E:\xamppnew\mysql\data\ibtmp1' size is now 12 MB.
+2024-06-13 11:20:53 0 [Note] InnoDB: Waiting for purge to start
+2024-06-13 11:20:53 0 [Note] InnoDB: 10.4.32 started; log sequence number 46448948; transaction id 1735
+2024-06-13 11:20:53 0 [Note] InnoDB: Loading buffer pool(s) from E:\xamppnew\mysql\data\ib_buffer_pool
+2024-06-13 11:20:53 0 [Note] Plugin 'FEEDBACK' is disabled.
+2024-06-13 11:20:53 0 [Note] InnoDB: Buffer pool(s) load completed at 240613 11:20:53
+2024-06-13 11:20:53 0 [ERROR] Could not open mysql.plugin table. Some plugins may be not loaded
+2024-06-13 11:20:53 0 [ERROR] Failed to initialize plugins.
+2024-06-13 11:20:53 0 [ERROR] Aborting
+2024-06-13 11:22:34 0 [Note] Starting MariaDB 10.4.32-MariaDB source revision c4143f909528e3fab0677a28631d10389354c491 as process 832
+Cannot find checkpoint record at LSN (1,0x570e)
+2024-06-13 11:22:34 0 [ERROR] mysqld.exe: Aria recovery failed. Please run aria_chk -r on all Aria tables and delete all aria_log.######## files
+2024-06-13 11:22:34 0 [ERROR] Plugin 'Aria' registration as a STORAGE ENGINE failed.
+2024-06-13 11:22:34 0 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2024-06-13 11:22:34 0 [Note] InnoDB: Uses event mutexes
+2024-06-13 11:22:34 0 [Note] InnoDB: Compressed tables use zlib 1.3
+2024-06-13 11:22:34 0 [Note] InnoDB: Number of pools: 1
+2024-06-13 11:22:34 0 [Note] InnoDB: Using SSE2 crc32 instructions
+2024-06-13 11:22:34 0 [Note] InnoDB: Initializing buffer pool, total size = 16M, instances = 1, chunk size = 16M
+2024-06-13 11:22:34 0 [Note] InnoDB: Completed initialization of buffer pool
+2024-06-13 11:22:35 0 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2024-06-13 11:22:35 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2024-06-13 11:22:35 0 [Note] InnoDB: Setting file 'E:\xamppnew\mysql\data\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2024-06-13 11:22:35 0 [Note] InnoDB: File 'E:\xamppnew\mysql\data\ibtmp1' size is now 12 MB.
+2024-06-13 11:22:35 0 [Note] InnoDB: Waiting for purge to start
+2024-06-13 11:22:35 0 [Note] InnoDB: 10.4.32 started; log sequence number 46448957; transaction id 1735
+2024-06-13 11:22:35 0 [Note] InnoDB: Loading buffer pool(s) from E:\xamppnew\mysql\data\ib_buffer_pool
+2024-06-13 11:22:35 0 [Note] Plugin 'FEEDBACK' is disabled.
+2024-06-13 11:22:35 0 [Note] InnoDB: Buffer pool(s) load completed at 240613 11:22:35
+2024-06-13 11:22:35 0 [ERROR] Could not open mysql.plugin table. Some plugins may be not loaded
+2024-06-13 11:22:35 0 [ERROR] Failed to initialize plugins.
+2024-06-13 11:22:35 0 [ERROR] Aborting
+2024-06-13 11:22:45 0 [Note] Starting MariaDB 10.4.32-MariaDB source revision c4143f909528e3fab0677a28631d10389354c491 as process 4128
+Cannot find checkpoint record at LSN (1,0x570e)
+2024-06-13 11:22:45 0 [ERROR] mysqld.exe: Aria recovery failed. Please run aria_chk -r on all Aria tables and delete all aria_log.######## files
+2024-06-13 11:22:45 0 [ERROR] Plugin 'Aria' registration as a STORAGE ENGINE failed.
+2024-06-13 11:22:45 0 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2024-06-13 11:22:45 0 [Note] InnoDB: Uses event mutexes
+2024-06-13 11:22:45 0 [Note] InnoDB: Compressed tables use zlib 1.3
+2024-06-13 11:22:45 0 [Note] InnoDB: Number of pools: 1
+2024-06-13 11:22:45 0 [Note] InnoDB: Using SSE2 crc32 instructions
+2024-06-13 11:22:45 0 [Note] InnoDB: Initializing buffer pool, total size = 16M, instances = 1, chunk size = 16M
+2024-06-13 11:22:45 0 [Note] InnoDB: Completed initialization of buffer pool
+2024-06-13 11:22:45 0 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2024-06-13 11:22:45 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2024-06-13 11:22:45 0 [Note] InnoDB: Setting file 'E:\xamppnew\mysql\data\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2024-06-13 11:22:45 0 [Note] InnoDB: File 'E:\xamppnew\mysql\data\ibtmp1' size is now 12 MB.
+2024-06-13 11:22:45 0 [Note] InnoDB: Waiting for purge to start
+2024-06-13 11:22:45 0 [Note] InnoDB: 10.4.32 started; log sequence number 46448966; transaction id 1735
+2024-06-13 11:22:45 0 [Note] InnoDB: Loading buffer pool(s) from E:\xamppnew\mysql\data\ib_buffer_pool
+2024-06-13 11:22:45 0 [Note] Plugin 'FEEDBACK' is disabled.
+2024-06-13 11:22:45 0 [Note] InnoDB: Buffer pool(s) load completed at 240613 11:22:45
+2024-06-13 11:22:45 0 [ERROR] Could not open mysql.plugin table. Some plugins may be not loaded
+2024-06-13 11:22:45 0 [ERROR] Failed to initialize plugins.
+2024-06-13 11:22:45 0 [ERROR] Aborting
+2024-06-13 11:25:21 0 [Note] Starting MariaDB 10.4.32-MariaDB source revision c4143f909528e3fab0677a28631d10389354c491 as process 9472
+Cannot find checkpoint record at LSN (1,0x570e)
+2024-06-13 11:25:21 0 [ERROR] mysqld.exe: Aria recovery failed. Please run aria_chk -r on all Aria tables and delete all aria_log.######## files
+2024-06-13 11:25:21 0 [ERROR] Plugin 'Aria' registration as a STORAGE ENGINE failed.
+2024-06-13 11:25:21 0 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2024-06-13 11:25:21 0 [Note] InnoDB: Uses event mutexes
+2024-06-13 11:25:21 0 [Note] InnoDB: Compressed tables use zlib 1.3
+2024-06-13 11:25:21 0 [Note] InnoDB: Number of pools: 1
+2024-06-13 11:25:21 0 [Note] InnoDB: Using SSE2 crc32 instructions
+2024-06-13 11:25:21 0 [Note] InnoDB: Initializing buffer pool, total size = 16M, instances = 1, chunk size = 16M
+2024-06-13 11:25:21 0 [Note] InnoDB: Completed initialization of buffer pool
+2024-06-13 11:25:21 0 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2024-06-13 11:25:21 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2024-06-13 11:25:21 0 [Note] InnoDB: Setting file 'E:\xamppnew\mysql\data\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2024-06-13 11:25:21 0 [Note] InnoDB: File 'E:\xamppnew\mysql\data\ibtmp1' size is now 12 MB.
+2024-06-13 11:25:21 0 [Note] InnoDB: Waiting for purge to start
+2024-06-13 11:25:21 0 [Note] InnoDB: 10.4.32 started; log sequence number 46448975; transaction id 1735
+2024-06-13 11:25:21 0 [Note] InnoDB: Loading buffer pool(s) from E:\xamppnew\mysql\data\ib_buffer_pool
+2024-06-13 11:25:21 0 [Note] Plugin 'FEEDBACK' is disabled.
+2024-06-13 11:25:21 0 [Note] InnoDB: Buffer pool(s) load completed at 240613 11:25:21
+2024-06-13 11:25:21 0 [ERROR] Could not open mysql.plugin table. Some plugins may be not loaded
+2024-06-13 11:25:21 0 [ERROR] Failed to initialize plugins.
+2024-06-13 11:25:21 0 [ERROR] Aborting

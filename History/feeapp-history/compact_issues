@@ -1,0 +1,165 @@
+ FEES
+ ------ -------------------------------------------------- 
+  Line   BSFeesReports.php
+ ------ --------------------------------------------------
+  :493   Undefined variable $fee_type passed to compact()
+  :919   Undefined variable $classSum passed to compact()
+  :919   Undefined variable $insSum passed to compact()
+ ------ --------------------------------------------------
+
+ ------ ------------------------------------------------------------------
+  Line   CumulativeReportController.php
+ ------ ------------------------------------------------------------------
+  :54    Undefined variable $result passed to compact()
+  :88    Undefined variable $result passed to compact()
+  :91    Undefined variable $result passed to compact()
+  :160   Undefined variable $previous passed to compact()
+  :160   Undefined variable $result passed to compact()
+  :160   Undefined variable $school passed to compact()
+  :164   Undefined variable $previous passed to compact()
+  :164   Undefined variable $result passed to compact()
+  :164   Undefined variable $school passed to compact()
+  :606   Undefined variable $TotalNewLeftStudents passed to compact()
+  :606   Undefined variable $TotalNewStudents passed to compact()
+  :606   Undefined variable $TotalOfTotalStudents passed to compact()
+  :606   Undefined variable $TotalOldLeftStudent passed to compact()
+  :606   Undefined variable $TotalOldStudents passed to compact()
+  :606   Undefined variable $TotalTransferredStudents passed to compact()
+  :606   Undefined variable $TotalofTotalLeftStudent passed to compact()
+  :606   Undefined variable $arrClasses passed to compact()
+  :606   Undefined variable $result passed to compact()
+ ------ ------------------------------------------------------------------
+
+ ------- ----------------------------------------------------------
+  Line    FeesBSController.php
+ ------- ----------------------------------------------------------
+  :2917   Undefined variable $session_type passed to compact()
+  :2919   Undefined variable $session_type passed to compact()
+  :3608   Undefined variable $receipt_type passed to compact()
+  :4338   Undefined variable $stationary_array passed to compact()
+ ------- ----------------------------------------------------------
+
+ ------- ----------------------------------------------------------
+ ------- ----------------------------------------------------------
+
+ ------ -----------------------------------------------------------
+  Line   FeesLeftDateCalBSController.php
+ ------ -----------------------------------------------------------
+  :253   Undefined variable $additionalCharges passed to compact()
+ ------ -----------------------------------------------------------
+
+ ------- --------------------------------------------------
+  Line    FeesReports.php
+ ------- --------------------------------------------------
+  :1043   Undefined variable $classSum passed to compact()
+  :1043   Undefined variable $insSum passed to compact()
+  :1045   Undefined variable $classSum passed to compact()
+  :1045   Undefined variable $insSum passed to compact()
+ ------- --------------------------------------------------
+
+ ------- ------------------------------------------------------
+  Line    ReportController.php
+ ------- ------------------------------------------------------
+  :252    Undefined variable $result passed to compact()
+  :292    Undefined variable $result passed to compact()
+  :1567   Undefined variable $report_title passed to compact()
+  :1568   Undefined variable $report_title passed to compact()
+  :1620   Undefined variable $report_title passed to compact()
+  :1620   Undefined variable $sections_arr passed to compact()
+ ------- ------------------------------------------------------
+
+ ------ -----------------------------------------------
+  Line   StopsController.php
+ ------ -----------------------------------------------
+  :83    Undefined variable $slist passed to compact()
+ ------ -----------------------------------------------
+
+ ------- ------------------------------------------------------------
+  Line    UniversityStudentController.php
+ ------- ------------------------------------------------------------
+  :1380   Undefined variable $nationality passed to compact()
+  :1878   Undefined variable $arrClassesCombined passed to compact()
+ ------- ------------------------------------------------------------
+
+ [ERROR] Found 41 errors
+
+
+
+  ------- ------------------------------------------------------- 
+  Line    AryController.php
+ ------- -------------------------------------------------------
+  :117    Undefined variable $result passed to compact()
+  :1527   Undefined variable $Student passed to compact()
+  :1527   Undefined variable $fee_exception passed to compact()
+ ------- -------------------------------------------------------
+
+ ------ -----------------------------------------------------------
+  Line   studentsController.php
+ ------ -----------------------------------------------------------
+  :374   Undefined variable $additionalCharges passed to compact()
+
+  -----------------
+
+  16/16 [============================] 100%
+
+ ------- ----------------------------------------------- 
+  Line    HostelController.php
+ ------- -----------------------------------------------
+  :809    Undefined variable $board passed to compact()
+  :809    Undefined variable $class passed to compact()
+  :1123   Undefined variable $class passed to compact()
+ ------- -----------------------------------------------
+
+ ------ -----------------------------------------------------
+  Line   MainOfficeController.php
+ ------ -----------------------------------------------------
+  :150   Undefined variable $nationality passed to compact()
+ ------ -----------------------------------------------------
+
+ ------ ------------------------------------------------------
+  Line   RejoinMainOfficeController.php
+ ------ ------------------------------------------------------
+  :182   Undefined variable $display_name passed to compact()
+ ------ ------------------------------------------------------
+
+ ------- ---------------------------------------------------
+  Line    RejoinReportController.php
+ ------- ---------------------------------------------------
+  :2439   Undefined variable $board passed to compact()
+  :2439   Undefined variable $boards passed to compact()
+  :2439   Undefined variable $className passed to compact()
+ ------- ---------------------------------------------------
+
+ ------ ---------------------------------------------------
+  Line   StudentPermissionController.php
+ ------ ---------------------------------------------------
+  :232   Undefined variable $bcomments passed to compact()
+  :527   Undefined variable $comments passed to compact()
+  :527   Undefined variable $other_vis passed to compact()
+ ------ ---------------------------------------------------
+
+
+ [ERROR] Found 11 errors
+
+
+ --------------------------------------------------------
+
+
+ 
+ ------ ------------------------------------------------------ 
+  Line   HReportsController.php
+ ------ ------------------------------------------------------
+  :106   Undefined variable $report_title passed to compact()
+  :107   Undefined variable $report_title passed to compact()
+  :132   Undefined variable $other_field passed to compact()
+  :132   Undefined variable $report_title passed to compact()
+ ------ ------------------------------------------------------
+
+ ------ --------------------------------------------
+  Line   MedicalExportController.php
+ ------ --------------------------------------------
+  :210   Undefined variable $pi passed to compact()
+ ------ --------------------------------------------
+
+
+ [ERROR] Found 5 errors

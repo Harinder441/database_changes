@@ -1,0 +1,1 @@
+ALTER TABLE student_app_users ADD COLUMN expo_push_token VARCHAR(255), ADD COLUMN login_times INT DEFAULT 0, ADD COLUMN device_id VARCHAR(255);
