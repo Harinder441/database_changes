@@ -104,28 +104,28 @@ INSERT INTO `school_result_sub_title` (`subject_id`, `sub_title`, `max_marks`, `
 (95, 'Practical', 30, 0, 0, 58, 'computer_', 6, '2024-25'),
 
 
-(105, 'Periodic', 5, 0, 0, 4, 'eng_periodic', 1, '2024-25'),
+(105, 'Periodic', 10, 0, 0, 4, 'eng_pmt_eng_', 1, '2024-25'),
 (105, 'Notebook', 5, 0, 0, 5, 'eng_', 2, '2024-25'),
 (105, 'Subject  Enrichment', 5, 0, 0, 6, 'eng_', 3, '2024-25'),
 (105, 'Yearly Exam', 80, 0, 0, 8, 'eng_', 5, '2024-25'),
 
 
-(106, 'Periodic', 5, 0, 0, 12, 'punjabi_periodic', 1, '2024-25'),
+(106, 'Periodic', 10, 0, 0, 12, 'punjabi_pmt_punjabi_', 1, '2024-25'),
 (106, 'Notebook', 5, 0, 0, 13, 'punjabi_', 2, '2024-25'),
 (106, 'Subject  Enrichment', 5, 0, 0, 14, 'punjabi_', 3, '2024-25'),
 (106, 'Yearly Exam', 80, 0, 0, 16, 'punjabi_', 4, '2024-25'),
 
-(108, 'Periodic', 5, 0, 0, 20, 'maths_periodic', 1, '2024-25'),
+(108, 'Periodic', 10, 0, 0, 20, 'maths_pmt_maths_', 1, '2024-25'),
 (108, 'Notebook', 5, 0, 0, 21, 'maths_', 2, '2024-25'),
 (108, 'Subject Enrichment', 5, 0, 0, 22, 'maths_', 3, '2024-25'),
 (108, 'Yearly Exam', 80, 0, 0, 24, 'maths_', 4, '2024-25'),
 
-(109, 'Periodic', 5, 0, 0, 28, 'science_periodic', 1, '2024-25'),
+(109, 'Periodic', 10, 0, 0, 28, 'science_pmt_science_', 1, '2024-25'),
 (109, 'Notebook', 5, 0, 0, 29, 'science_', 2, '2024-25'),
 (109, 'Subject  Enrichment', 5, 0, 0, 30, 'science_', 3, '2024-25'),
 (109, 'Yearly Exam', 80, 0, 0, 32, 'science_', 4, '2024-25'),
 
-(110, 'Periodic', 5, 0, 0, 36, 'social_science_periodic', 1, '2024-25'),
+(110, 'Periodic', 10, 0, 0, 36, 'social_science_pmt_social_science_', 1, '2024-25'),
 (110, 'Notebook', 5, 0, 0, 37, 'social_science_', 2, '2024-25'),
 (110, 'Subject  Enrichment', 5, 0, 0, 38, 'social_science_', 3, '2024-25'),
 (110, 'Yearly Exam', 80, 0, 0, 40, 'social_science_', 4, '2024-25'),
@@ -135,7 +135,7 @@ INSERT INTO `school_result_sub_title` (`subject_id`, `sub_title`, `max_marks`, `
 
 
 
-(107, 'Periodic', 5, 0, 0, 17, 'hindi_pmt_periodic', 1, '2024-25'),
+(107, 'Periodic', 10, 0, 0, 17, 'hindi_pmt_hindi_', 1, '2024-25'),
 (107, 'Notebook', 5, 0, 0, 18, 'hindi_', 2, '2024-25'),
 (107, 'Subject  Enrichment', 5, 0, 0, 19, 'hindi_', 3, '2024-25'),
 (107, 'Yearly Exam', 80, 0, 0, 20, 'hindi_', 4, '2024-25'),
@@ -210,3 +210,5 @@ INSERT INTO `school_result_sub_title` (`id`, `subject_id`, `sub_title`, `max_mar
 (NULL, 413, 'Health and Physical Education', 10, 0, 0, 61, 'co_scholastic_', 3, '2024-25'),
 (NULL, 413, 'Discipline', 10, 0, 0, 62, 'co_scholastic_', 4, '2024-25');
 
+UPDATE `school_result_sub_title` SET `table_field_name` = "maths_" WHERE `id` = 2808;
+UPDATE `school_result_sub_title` SET `table_field_name` = "maths_" WHERE `id` = 1955;
