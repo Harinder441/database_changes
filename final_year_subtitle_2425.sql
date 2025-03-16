@@ -212,3 +212,14 @@ INSERT INTO `school_result_sub_title` (`id`, `subject_id`, `sub_title`, `max_mar
 
 UPDATE `school_result_sub_title` SET `table_field_name` = "maths_" WHERE `id` = 2808;
 UPDATE `school_result_sub_title` SET `table_field_name` = "maths_" WHERE `id` = 1955;
+
+
+
+INSERT INTO `school_result_sub_title` (`subject_id`, `sub_title`, `max_marks`, `total_re_cal_max`, `cal_percentage_on`, `excel_col_no`, `table_field_name`, `position`, `session`) VALUES
+(105, 'Multiple Assessment', 5, 0, 0, 5, 'eng_', 4, '2024-25'),
+(106, 'Multiple Assessment', 5, 0, 0, 14, 'punjabi_', 4, '2024-25'),
+(108, 'Multiple Assessment', 5, 0, 0, 22, 'maths_', 4, '2024-25'),
+(109, 'Multiple Assessment', 5, 0, 0, 30, 'science_', 4, '2024-25'),
+(110, 'Multiple Assessment', 5, 0, 0, 38, 'social_science_', 4, '2024-25'),
+(107, 'Multiple Assessment', 5, 0, 0, 19, 'hindi_', 4, '2024-25');
+
