@@ -251,3 +251,21 @@ INSERT INTO `class_marks_field_map` ( `session`, `class_from`, `class_to`, `resu
 ('2024-25', 9, 10, 'Final', 'CBSE', 109, 'cal2', 100, 'cal2'),
 ('2024-25', 9, 10, 'Final', 'CBSE', 110, 'cal2', 100, 'cal2'),
 ('2024-25', 9, 10, 'Final', 'CBSE', 111, 'cal1', 100, 'cal1');
+
+
+
+INSERT INTO
+    `tbl_module` (`id`, `parent_id`, `app_id`, `module_name`, `url`, `fa_class`, `dependent_module`, `position`, `status`, `admin_display`, `created_by`, `updated_by`, `created_at`, `updated_at`)
+VALUES
+    (NULL, '0', '2', 'Refresh Student Result', 'resultReports/refresh-student-result', '<i class=\"fa fa-user\"></i>', NULL, '5', '1', '1', '1', NULL, '2024-06-20 14:00:00', '2024-06-20 14:00:00');
+
+
+INSERT INTO
+    `tbl_privilege` (`id`, `module_id`, `privilege_name`, `privilege_slug`, `privilege_desc`, `url`, `status`, `logging`, `created_at`, `updated_at`, `created_by`, `updated_by`)
+VALUES
+    (NULL, '35', 'refresh_student_result', 'refresh_student_result', 'refresh_student_result', '', '1', '0', '2024-02-10 00:00:00', '2024-02-10 00:00:00', '1', NULL);
+
+
+INSERT INTO `tbl_role_privilage` (`id`, `role_id`, `privilege_id`, `created_at`, `created_by`) 
+VALUES 
+    (NULL, '1', '49', '2024-07-13 17:03:13', '1');
